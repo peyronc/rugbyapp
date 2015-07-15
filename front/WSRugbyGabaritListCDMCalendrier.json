@@ -1,0 +1,55 @@
+{
+  "currentPage": {
+    "displayTemplate": "gabaritList",
+    "displayName": "Calendrier",
+    "displayType": "list",
+    "BOName": "Calendrier",
+    "BOLayoutName": "Coupe du Monde - Calendrier"
+  },
+  "rubriques": [
+    {
+      "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportCalendar.json",
+      "displayTemplate": "gabaritList",
+      "displayType": "list",
+      "displayName": "Poule A",
+      "BOName": "Poule A",
+      "BOLayoutName": "Calendrier - Poule A",
+      "highlight": false,
+      "iPhonePosition": "inSegmentedControl",
+      "iPhoneListSegmentedControlName": "Poule A"
+    },
+    {
+      "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportCalendar.json",
+      "displayTemplate": "gabaritList",
+      "displayType": "list",
+      "displayName": "Poule B",
+      "BOName": "Poule A",
+      "BOLayoutName": "Calendrier - Poule B",
+      "highlight": false,
+      "iPhonePosition": "inSegmentedControl",
+      "iPhoneListSegmentedControlName": "Poule B"
+    },
+    {
+      "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportCalendar.json",
+      "displayTemplate": "gabaritList",
+      "displayType": "list",
+      "displayName": "Quart de finale",
+      "BOName": "Poule A",
+      "BOLayoutName": "Calendrier - Quart de finale",
+      "highlight": false,
+      "iPhonePosition": "inSegmentedControl",
+      "iPhoneListSegmentedControlName": "Quart de finale"
+    },
+    {
+      "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportCalendar.json",
+      "displayTemplate": "gabaritList",
+      "displayType": "list",
+      "displayName": "Finale",
+      "BOName": "Finale",
+      "BOLayoutName": "Calendrier - Finale",
+      "highlight": false,
+      "iPhonePosition": "inSegmentedControl",
+      "iPhoneListSegmentedControlName": "Finale"
+    }
+  ]
+}

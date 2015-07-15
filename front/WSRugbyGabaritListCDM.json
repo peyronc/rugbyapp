@@ -2,7 +2,7 @@
   "currentPage": {
     "displayTemplate": "gabaritList",
     "displayName": "Coupe du Monde",
-    "displayType":"tab",
+    "displayType":"navControl",
     "BOName": "Coupe du Monde",
     "BOLayoutName": "Coupe du Monde",
   },
@@ -10,7 +10,7 @@
     {
       "URLPage": "http://f1-service.mycanal.fr/page/9ed129745dbc64c7b5eaa583924f7e5d/3137.json?cache=300000&params[highlight]=0",
       "displayTemplate": "gabaritList",
-      "displayType":"tab",
+      "displayType":"list",
       "displayName": "Calendrier",
       "BOName": "Calendrier",
       "BOLayoutName": "Calendrier",
