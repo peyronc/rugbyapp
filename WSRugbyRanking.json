@@ -1,0 +1,121 @@
+{
+  "currentPage": {
+    "displayTemplate": "SportRanking",
+    "displayName": "Classement Top 14",
+    "pullToRefresh": true,
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "s.channel": "RugbyMob",
+      "s.prop4": "RugbyMob - Top 14",
+      "s.prop5": "RugbyMob - Top 14 - Classement",
+      "s.prop6": "RugbyMob - Top 14 - Classement - 2015",
+      "s.prop7": "Rugby - Top 14 - Classement - 2015 - Top 14 - Phase régulière",
+      "s.pagename": "Rugby - Top 14 - Classement - 2015 - Top 14 - Phase régulière"
+    }
+  },
+  "strates": [
+    {
+      "events": [
+        {
+          "title": "Pts",
+          "type": "main"
+        },
+        {
+          "title": "(dont Bonus)"
+        },
+        {
+          "title": "J"
+        },
+        {
+          "title": "G"
+        },
+        {
+          "title": "N"
+        },
+        {
+          "title": "P"
+        },
+        {
+          "detailTitle": "Pts M."
+        },
+        {
+          "detailTitle": "Pts E."
+        },
+        {
+          "detailTitle": "Diff"
+        }
+      ],
+      "contents": [
+        {
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/hamilton.png",
+          "ranking": "1er",
+          "title": "Toulon",
+          "thirdTitle": "70",
+          "pointsDetail": [
+            "4",
+            "4",
+            "0",
+            "0",
+            "36",
+            "6",
+            "240",
+            "49"
+          ]
+        },
+        {
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/rosberg.png",
+          "ranking": "2e",
+          "title": "Pays de Galles",
+          "thirdTitle": "11",
+          "pointsDetail": [
+            "4",
+            "2",
+            "0",
+            "2",
+            "13",
+            "9",
+            "124",
+            "96"
+          ]
+        },
+        {
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/vettel.png",
+          "ranking": "3e",
+          "title": "Australie",
+          "thirdTitle": "9",
+          "pointsDetail": [
+            "4",
+            "2",
+            "0",
+            "2",
+            "7",
+            "13",
+            "80",
+            "98"
+          ]
+        },
+        {
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/raikkonen.png",
+          "ranking": "4e",
+          "title": "Fidji",
+          "thirdTitle": "6",
+          "pointsDetail": [
+            "4",
+            "1",
+            "1",
+            "2",
+            "9",
+            "20",
+            "82",
+            "168"
+          ]
+        }
+      ]
+    }
+  ],
+  "empty": {
+    "displayName": "Aucun match disponible en live actuellement"
+  }
+}

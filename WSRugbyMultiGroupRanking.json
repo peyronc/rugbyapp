@@ -1,0 +1,223 @@
+{
+  "currentPage": {
+    "displayTemplate": "SportRanking",
+    "displayName": "Classement Coupe du Monde"
+  },
+  "strates": [
+    {
+      "displayName": "Poule A",
+      "events": [
+        {
+          "title": "Pts",
+          "type": "main"
+        },
+        {
+          "title": "J"
+        },
+        {
+          "title": "G"
+        },
+        {
+          "title": "N"
+        },
+        {
+          "title": "P"
+        },
+        {
+          "title": "Essais M."
+        },
+        {
+          "title": "Essais E."
+        },
+        {
+          "title": "Pts M."
+        },
+        {
+          "title": "Pts E."
+        },
+        {
+          "title": "Diff."
+        }
+      ],
+      "contents": [
+        {
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/hamilton.png",
+          "ranking": "1er",
+          "title": "Angleterre",
+          "thirdTitle": "20",
+          "pointsDetail": [
+            "4",
+            "4",
+            "0",
+            "0",
+            "36",
+            "6",
+            "240",
+            "49",
+            "191"
+          ]
+        },
+        {
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/rosberg.png",
+          "ranking": "2e",
+          "title": "Pays de Galles",
+          "thirdTitle": "11",
+          "pointsDetail": [
+            "4",
+            "2",
+            "0",
+            "2",
+            "13",
+            "9",
+            "124",
+            "96",
+            "28"
+          ]
+        },
+        {
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/vettel.png",
+          "ranking": "3e",
+          "title": "Australie",
+          "thirdTitle": "9",
+          "pointsDetail": [
+            "4",
+            "2",
+            "0",
+            "2",
+            "7",
+            "13",
+            "80",
+            "98",
+            "-18"
+          ]
+        },
+        {
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/raikkonen.png",
+          "ranking": "4e",
+          "title": "Fidji",
+          "thirdTitle": "6",
+          "pointsDetail": [
+            "4",
+            "1",
+            "1",
+            "2",
+            "9",
+            "20",
+            "82",
+            "168",
+            "-86"
+          ]
+        }
+      ]
+    },
+    {
+      "displayName": "Poule B",
+      "events": [
+        {
+          "title": "Pts",
+          "type": "main"
+        },
+        {
+          "title": "J"
+        },
+        {
+          "title": "G"
+        },
+        {
+          "title": "N"
+        },
+        {
+          "title": "P"
+        },
+        {
+          "title": "Essais M."
+        },
+        {
+          "title": "Essais E."
+        },
+        {
+          "title": "Pts M."
+        },
+        {
+          "title": "Pts E."
+        },
+        {
+          "title": "Diff."
+        }
+      ],
+      "contents": [
+        {
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/bottas.png",
+          "ranking": "1er",
+          "title": "Afrique du Sud",
+          "thirdTitle": "20",
+          "pointsDetail": [
+            "4",
+            "4",
+            "0",
+            "0",
+            "36",
+            "6",
+            "240",
+            "49",
+            "191"
+          ]
+        },
+        {
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/massa.png",
+          "ranking": "2e",
+          "title": "Écosse",
+          "thirdTitle": "11",
+          "pointsDetail": [
+            "4",
+            "2",
+            "0",
+            "2",
+            "13",
+            "9",
+            "124",
+            "96",
+            "28"
+          ]
+        },
+        {
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/ricciardo.png",
+          "ranking": "3e",
+          "title": "Japon",
+          "thirdTitle": "9",
+          "pointsDetail": [
+            "4",
+            "3",
+            "0",
+            "3",
+            "7",
+            "13",
+            "80",
+            "98",
+            "-18"
+          ]
+        },
+        {
+          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/kvyat.png",
+          "ranking": "4e",
+          "title": "Samoa",
+          "thirdTitle": "6",
+          "pointsDetail": [
+            "4",
+            "1",
+            "1",
+            "2",
+            "9",
+            "20",
+            "82",
+            "168",
+            "-86"
+          ]
+        }
+      ]
+    }
+  ],
+  "empty": {
+    "displayName": "Aucun match disponible en live actuellement"
+  }
+}
