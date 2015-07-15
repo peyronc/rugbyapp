@@ -1,6 +1,6 @@
 {
   "currentPage": {
-    "displayTemplate": "SportRanking",
+    "displayTemplate": "sportRanking",
     "displayName": "Classement Top 14",
     "pullToRefresh": true,
     "autorefresh": 30000

@@ -1,0 +1,42 @@
+{
+  "currentPage": {
+    "displayTemplate": "gabaritList",
+    "displayName": "Coupe du Monde",
+    "displayType":"tab",
+    "BOName": "Coupe du Monde",
+    "BOLayoutName": "Coupe du Monde",
+  },
+  "rubriques": [
+    {
+      "URLPage": "http://f1-service.mycanal.fr/page/9ed129745dbc64c7b5eaa583924f7e5d/3137.json?cache=300000&params[highlight]=0",
+      "displayTemplate": "gabaritList",
+      "displayType":"tab",
+      "displayName": "Calendrier",
+      "BOName": "Calendrier",
+      "BOLayoutName": "Calendrier",
+      "highlight": false,
+      "iPhonePosition": "inSegmentedControl",
+      "iPhoneListSegmentedControlName": "Calendrier"
+    },
+    {
+      "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyMultiGroupRanking.json",
+      "displayTemplate": "sportRanking",
+      "displayName": "Classement",
+      "BOName": "Classement",
+      "BOLayoutName": "Classement - Coupe du Monde",
+      "highlight": false,
+      "iPhonePosition": "inSegmentedControl",
+      "iPhoneListSegmentedControlName": "Classement"
+    },
+    {
+      "URLPage": "http://f1-service.mycanal.fr/page/9ed129745dbc64c7b5eaa583924f7e5d/2425.json?cache=60000",
+      "displayTemplate": "landing",
+      "displayName": "Vidéos",
+      "BOName": "Vidéos",
+      "BOLayoutName": "Vidéos - Coupe du Monde",
+      "highlight": false,
+      "iPhonePosition": "inSegmentedControl",
+      "iPhoneListSegmentedControlName": "Vidéos"
+    }
+  ]
+}

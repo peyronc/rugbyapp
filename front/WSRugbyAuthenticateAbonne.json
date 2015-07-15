@@ -1,0 +1,126 @@
+{
+  "token": "9ed129745dbc64c7b5eaa583924f7e5d",
+  "home": [],
+  "arborescence": [
+    {
+      "displayName": "Accueil",
+      "picto": "home",
+      "onClick": {
+        "URLPage": "http://f1-service.mycanal.fr/page/9ed129745dbc64c7b5eaa583924f7e5d/2425.json?cache=60000",
+        "displayTemplate": "landing",
+        "displayName": "Accueil",
+        "pullToRefresh": true,
+        "BOName": "Accueil",
+        "BOLayoutName": "Accueil",
+        "displayLogo": "http://media.mycanal.fr/image/56/5/logo_appf1.8565.151.png"
+      }
+    },
+    {
+      "displayName": "Live",
+      "picto": "livesport",
+      "onClick": {
+        "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyLiveCalendar.json",
+        "displayTemplate": "landing",
+        "displayName": "Live",
+        "pullToRefresh": true,
+        "BOName": "Live - Page Intermediaire",
+        "BOLayoutName": "Live - Page Intermediaire"
+      }
+    },
+    {
+      "displayName": "Coupe du monde",
+      "picto": "cdm",
+      "onClick": {
+        "URLPage": "http://f1-service.mycanal.fr/page/9ed129745dbc64c7b5eaa583924f7e5d/2671.json?cache=300000",
+        "displayTemplate": "gabaritList",
+        "displayName": "Coupe du Monde",
+        "BOName": "Coupe du Monde"
+      }
+    },
+    {
+      "displayName": "Top 14",
+      "picto": "top14",
+      "onClick": {
+        "URLPage": "http://f1-service.mycanal.fr/page/9ed129745dbc64c7b5eaa583924f7e5d/2671.json?cache=300000",
+        "displayTemplate": "gabaritList",
+        "displayName": "Coupe du Monde",
+        "BOName": "Coupe du Monde"
+      }
+    },
+    {
+      "displayName": "Pro D2",
+      "picto": "prod2",
+      "onClick": {
+        "URLPage": "http://f1-service.mycanal.fr/page/9ed129745dbc64c7b5eaa583924f7e5d/2671.json?cache=300000",
+        "displayTemplate": "gabaritList",
+        "displayName": "Coupe du Monde",
+        "BOName": "Coupe du Monde"
+      }
+    },
+    {
+      "displayName": "Emissions",
+      "picto": "emission",
+      "onClick": {
+        "URLPage": "http://f1-service.mycanal.fr/page/9ed129745dbc64c7b5eaa583924f7e5d/2548.json?cache=300000",
+        "displayTemplate": "gabaritList",
+        "displayName": "Actualités",
+        "displayType": "tab",
+        "BOName": "Actualites",
+        "BOLayoutName": "Actualites"
+      }
+    },
+    {
+      "displayName": "Mon Compte",
+      "picto": "MyTV",
+      "children": [
+        {
+          "displayName": "Paramètres",
+          "onClick": {
+            "displayTemplate": "monCompte",
+            "displayName": "Mon Compte",
+            "BOName": "Mes reglages",
+            "BOLayoutName": "Mon compte"
+          }
+        },
+        {
+          "displayName": "Nous contacter",
+          "onClick": {
+            "URLPage": "http://f1-service.mycanal.fr/page/9ed129745dbc64c7b5eaa583924f7e5d/3182.json?cache=300000",
+            "displayTemplate": "stub",
+            "displayName": "Nous contacter",
+            "BOName": "Nous contacter",
+            "BOLayoutName": "Nous contacter"
+          }
+        },
+        {
+          "displayName": "FAQ",
+          "onClick": {
+            "URLPage": "http://f1-service.mycanal.fr/page/9ed129745dbc64c7b5eaa583924f7e5d/2952.json?cache=300000",
+            "displayTemplate": "FAQ",
+            "displayName": "FAQ",
+            "BOName": "FAQ",
+            "BOLayoutName": "FAQ - iOS"
+          }
+        },
+        {
+          "displayName": "Mention Légales",
+          "onClick": {
+            "displayTemplate": "webview",
+            "leaveAppOnClick": true,
+            "displayRemote": false,
+            "displayWebControls": false,
+            "localyStored": false,
+            "URLPage": "http://f1-service.mycanal.fr/page/9ed129745dbc64c7b5eaa583924f7e5d/3158.html?cache=3600000",
+            "URLWebsite": "http://f1-service.mycanal.fr/page/9ed129745dbc64c7b5eaa583924f7e5d/3158.html?cache=3600000",
+            "displayName": "Mentions",
+            "BOName": "Mentions Legales",
+            "BOLayoutName": "Mentions Layout"
+          }
+        }
+      ]
+    }
+  ],
+  "push": [
+    "2570pushprod-nepasutiliser"
+  ]
+}
