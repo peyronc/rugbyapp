@@ -1,0 +1,38 @@
+[
+	{
+
+		"id": "2015_203_80",
+		"name": "Pool A",
+		"displayName": "Poule A",
+		"dates": [
+			{
+				"date": 1442527200,
+				"displayDate": "Vendredi 18 septembre",
+				"events": [
+					// Liste de matchs, classée par date croissante
+				]
+			},
+			{
+				"date": 1442700000,
+				"displayDate": "Dimanche 20 septembre",
+				"events": [
+					// Liste de matchs, classée par date croissante
+				]
+			},
+			{
+				"date": 1442959200,
+				"displayDate": "Mercredi 23 septembre",
+				"events": [
+					// Liste de matchs, classée par date croissante
+				]
+			}
+		]
+	},
+	{
+		"id": "2015_203_81",
+		"name": "Poule B",
+		"dates": [
+			// Liste des dates, triée par ordre croissante
+		]
+	}
+]

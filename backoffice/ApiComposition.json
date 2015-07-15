@@ -1,0 +1,57 @@
+{
+	"home": [
+		{
+			"id": "118",
+			"shirtno": 7,
+			"name": "Smith George",
+			"type": "T",
+			"imgUrl": ""
+		},
+		{
+			"id": "2330",
+			"shirtno": 5,
+			"name": "Nallet Lionel",
+			"type": "T",
+			"imgUrl": ""
+		},
+		{
+			"id": "3246",
+			"shirtno": 4,
+			"name": "Ghezal Karim",
+			"type": "T",
+			"imgUrl": ""
+		}
+	],
+	"away": [
+		{
+			"id": "6132",
+			"shirtno": 1,
+			"name": "Barcella Fabien",
+			"type": "T",
+			"imgUrl": ""
+		},
+		{
+			"id": "6132",
+			"shirtno": 18,
+			"name": "Skeate Ross",
+			"type": "R",
+			"imgUrl": ""
+		},
+		{
+			"id": "7800",
+			"shirtno": 8,
+			"name": "Faure Florian",
+			"type": "T",
+			"imgUrl": ""
+		}
+	],
+	"referees": [
+		{
+			"id": "139",
+			"firstname": "Jerome",
+			"lastname": "Garces",
+			"role": "referee",
+			"displayRole": "Arbitre principal"
+		}
+	]
+}

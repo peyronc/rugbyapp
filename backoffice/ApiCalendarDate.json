@@ -1,0 +1,111 @@
+[
+	{
+		"date": 1443787200,
+		"displayDate": "Vendredi 02 octobre",
+		"groups": [
+			{
+				"id": "",
+				"name": "Pool C",
+				"displayName": "Poule C",
+				"imageUrl": "",
+				"competition": {
+					"id": "",
+					"displayName": "Coupe du monde"
+				},
+				"saison": {
+					"id": "2015",
+					"displayName": "2015"
+				},
+				"events": [
+					// Liste de matchs, classée par date croissante
+				]
+			}		
+		]
+	},
+	{
+		"date": 1444996800,
+		"displayDate": "Vendredi 16 octobre",
+		"groups": [
+			{
+				"id": "",
+				"name": "33",
+				"displayName": "33e journée",
+				"imageUrl": "",
+				"competition": {
+					"id": "",
+					"displayName": "Pro D2"
+				},
+				"saison": {
+					"id": "2015",
+					"displayName": "2015"
+				},
+				"events": [
+					// Liste de matchs, classée par date croissante
+				]
+			}		
+		]
+	},
+	{
+		"date": 1445601600,
+		"displayDate": "Aujourd'hui",
+		"groups": [
+			{
+				"id": "",
+				"name": "QF",
+				"displayName": "Quart de finale",
+				"imageUrl": "",
+				"competition": {
+					"id": "",
+					"displayName": "Coupe du monde"
+				},
+				"saison": {
+					"id": "2015",
+					"displayName": "2015"
+				},
+				"events": [
+					// Liste de matchs, classée par date croissante
+				]
+			},
+			{
+				"id": "",
+				"name": "32",
+				"displayName": "32e journée",
+				"imageUrl": "",
+				"competition": {
+					"id": "",
+					"displayName": "Top 14"
+				},
+				"saison": {
+					"id": "2015",
+					"displayName": "2015"
+				},
+				"events": [
+					// Liste de matchs, classée par date croissante
+				]
+			}		
+		]
+	},
+	{
+		"date": 1445688000,
+		"displayDate": "Demain",
+		"groups": [
+			{
+				"id": "",
+				"name": "QF",
+				"displayName": "Quart de finale",
+				"imageUrl": "",
+				"competition": {
+					"id": "",
+					"displayName": "Coupe du monde"
+				},
+				"saison": {
+					"id": "2015",
+					"displayName": "2015"
+				},
+				"events": [
+					// Liste de matchs, classée par date croissante
+				]
+			}		
+		]
+	}
+]

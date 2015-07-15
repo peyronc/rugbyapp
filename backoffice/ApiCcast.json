@@ -1,0 +1,31 @@
+{
+	"type": 1,
+	"id": 2,
+	"level": 1,
+	"date": {
+		"timestamp": 1434223368,
+		"display": "5'"
+	},
+	"event": "PENALITE REUSSIE",
+	"content": {
+		"id": 32206,
+		"imgUrl": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/2D7/290/8DB/2D72908DB949FF502EA94CCF3A07DC75_212x159.png",
+		"title": "PENALITE REUSSIE STADE FRANCAIS",
+		"summary": "Steyn inscrit les premiers points de ce match. Il était à 35 mètres à gauche. 3 à 0 en faveur du stade Français.",
+		"duration":0
+	},
+	"cams": [
+		{
+			"id": "CAM18",
+			"mediaUrl": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/outputs/BDF/E03/51E/BDFE0351E25BF906DCCCB629B82AC575_web-mp4.mp4"
+		},
+		{
+			"id": "CAM19",
+			"mediaUrl": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/outputs/9EA/A65/1E7/9EAA651E7E16CC4D6268A8FB8316CE64_web-mp4.mp4"
+		},
+		{
+			"id": "CAM20",
+			"mediaUrl": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/outputs/8F2/DDE/0DE/8F2DDE0DE94C4643705B8A2D6604C6E9_web-mp4.mp4"
+		}
+	]
+}
