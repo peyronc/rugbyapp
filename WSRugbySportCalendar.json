@@ -1,0 +1,123 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportCalendar",
+    "displayName": "Poule A",
+    "pullToRefresh": true,
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "s.channel": "F1Mob",
+      "s.prop4": "F1Mob - Calendrier ",
+      "s.prop5": "F1Mob - Calendrier - Coupe du Monde",
+      "s.prop6": "F1Mob - Calendrier Live",
+      "s.prop7": "F1Mob - Calendrier Live",
+      "s.pagename": "F1Mob - Calendrier Live"
+    }
+  },
+  "strates": [
+    {
+      "groups": [
+        {
+          "title": "Vendredi 18 septembre",
+          "displayLogo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+          "events": [
+            {
+              "contentType": "match",
+              "status": "finished",
+              "displayStatus": "Terminé",
+              "eventStartDate": 1411063200,
+              "homeTeam": {
+                "displayName": "Angletrre",
+                "logo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+                "score": 42,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Fidji",
+                "logo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+                "score": 33
+              }
+            }
+          ]
+        },
+        {
+          "title": "Dimanche 20 septembre",
+          "displayLogo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+          "events": [
+            {
+              "contentType": "match",
+              "status": "ongoing",
+              "displayStatus": "En cours",
+              "eventStartDate": 1411246800,
+              "homeTeam": {
+                "displayName": "Pays de Galles",
+                "logo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+                "score": 25
+              },
+              "awayTeam": {
+                "displayName": "Uruguay",
+                "logo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+                "score": 26,
+                "winner": true
+              }
+            },
+            {
+              "contentType": "match",
+              "highlight": true,
+              "status": "ongoing",
+              "displayStatus": "En cours",
+              "eventStartDate": 1411246800,
+              "tvChannel": "CANAL+",
+              "tvChannelLogo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+              "homeTeam": {
+                "displayName": "Australie",
+                "logo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+                "score": 47,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Uruguay",
+                "logo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+                "score": 13
+              },
+              "onClick": {
+                "URLPage": "http://preprod-f1-service.canalplus.com/page/11251d0b586d51c02553702af5926d5b/0.json?id=1273775&params[type]=match",
+                "displayTemplate": "sportTemplate",
+                "displayName": "Australie - Fidji",
+                "URLVitrine": "http://preprod-f1-service.canalplus.com/highlight/11251d0b586d51c02553702af5926d5b/0.json?id=1273775&params[type]=match"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Samedi 26 septembre",
+          "displayLogo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+          "events": [
+            {
+              "contentType": "match",
+              "status": "before",
+              "displayStatus": "A venir",
+              "eventStartDate": 1411747200,
+              "displayTime": "15h00",
+              "homeTeam": {
+                "displayName": "Angleterre",
+                "logo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+                "score": 25
+              },
+              "awayTeam": {
+                "displayName": "Pays de Galles",
+                "logo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+                "score": 37,
+                "winner": true
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "empty": {
+    "displayName": "Aucun match disponible en live actuellement"
+  }
+}
