@@ -9,8 +9,7 @@
   "rubriques": [
     {
       "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportCalendar.json",
-      "displayTemplate": "gabaritList",
-      "displayType": "list",
+      "displayTemplate": "sportCalendar",
       "displayName": "Poule A",
       "BOName": "Poule A",
       "BOLayoutName": "Calendrier - Poule A",
@@ -20,10 +19,9 @@
     },
     {
       "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportCalendar.json",
-      "displayTemplate": "gabaritList",
-      "displayType": "list",
+      "displayTemplate": "sportCalendar",
       "displayName": "Poule B",
-      "BOName": "Poule A",
+      "BOName": "Poule B",
       "BOLayoutName": "Calendrier - Poule B",
       "highlight": false,
       "iPhonePosition": "inSegmentedControl",
@@ -31,10 +29,9 @@
     },
     {
       "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportCalendar.json",
-      "displayTemplate": "gabaritList",
-      "displayType": "list",
+      "displayTemplate": "sportCalendar",
       "displayName": "Quart de finale",
-      "BOName": "Poule A",
+      "BOName": "Quart de finale",
       "BOLayoutName": "Calendrier - Quart de finale",
       "highlight": false,
       "iPhonePosition": "inSegmentedControl",
@@ -42,8 +39,7 @@
     },
     {
       "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportCalendar.json",
-      "displayTemplate": "gabaritList",
-      "displayType": "list",
+      "displayTemplate": "sportCalendar",
       "displayName": "Finale",
       "BOName": "Finale",
       "BOLayoutName": "Calendrier - Finale",
