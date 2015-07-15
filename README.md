@@ -1,11 +1,11 @@
 # rugbyapp
 
-# Dossier backoffice
-# ---------------------
+## Dossier backoffice
+---------------------
 
-# Contient tous les bouchons que le BO Sport sert au CMS myCanal.
+Contient tous les bouchons que le BO Sport sert au CMS myCanal.
 
-# Dossier front
-# ---------------------
+## Dossier front
+---------------------
 
-# Contient tous les bouchons que le CMS sert aux applications iOS et Android
+Contient tous les bouchons que le CMS sert aux applications iOS et Android
