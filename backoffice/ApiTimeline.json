@@ -1,39 +1,54 @@
 [
 	{
-		"type": 1,
+		"type": "ccast",
 		"id": 0,
-		"level": 0,
+		"highlight": false,
 		"date": {
-			"timestamp": 1434220290,
+			"timestamp": 1434220290
 		},
 		"content": {
 			"id": 32193,	
 			"imgUrl": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/D5A/C20/540/D5AC20540ACD7C8EABCB3608D3F537C5_212x159.png",
 			"title": "ARRIVEE BUS ET VESTIAIRES CLERMONT",
-			"summary": "Les Clermontois font leur entrée au Stade de France. Ils disputeront ce soir leur 12ème finale du Top 14. Ils n'en n'ont pour l'instant remporté qu'une seule, en 2010."
+			"summary": "Les Clermontois font leur entrée au Stade de France. Ils disputeront ce soir leur 12ème finale du Top 14. Ils n'en n'ont pour l'instant remporté qu'une seule, en 2010.",
+			"duration": 34029,
+			"cams": [
+				{
+					"id": "CAM18",
+					"displayName": "",
+					"mediaUrl": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/outputs/BDF/E03/51E/BDFE0351E25BF906DCCCB629B82AC575_web-mp4.mp4"
+				}
+			]
 		}
 	},
 	{
-		"type": 1,
+		"type": "ccast",
 		"id": 1,
-		"level": 0,
+		"highlight": false,
 		"date": {
-			"timestamp": 0,
+			"timestamp": 1434220290
 		},
 		"content": {
 			"id": 32194,	
 			"imgUrl": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/13A/159/88E/13A15988E894EB391DB854495A998408_212x159.png",
 			"title": "ARRIVEE BUS ET VESTIAIRES CLERMONT",
-			"summary": "Les joueurs du Stade Français se dirigent vers les vestiaires. Les Parisiens disputent ce soir leur 21ème finale et affichent un ratio de 11 victoires pour 9 défaites."
+			"summary": "Les joueurs du Stade Français se dirigent vers les vestiaires. Les Parisiens disputent ce soir leur 21ème finale et affichent un ratio de 11 victoires pour 9 défaites.",
+			"duration": 34029,
+			"cams": [
+				{
+					"id": "CAM18",
+					"displayName": "",
+					"mediaUrl": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/outputs/BDF/E03/51E/BDFE0351E25BF906DCCCB629B82AC575_web-mp4.mp4"
+				}
+			]
 		}
 	},
 	{
-		"type": 1,
+		"type": "ccast",
 		"id": 2,
-		"level": 1,
+		"highlight": true,
 		"date": {
-			"timestamp": ,
-			"timecode": 0,
+			"timestamp": 1434220290,
 			"display": "5'"
 		},
 		"event": "PENALITE REUSSIE",
@@ -41,7 +56,25 @@
 			"id": 32206,
 			"imgUrl": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/2D7/290/8DB/2D72908DB949FF502EA94CCF3A07DC75_212x159.png",
 			"title": "PENALITE REUSSIE STADE FRANCAIS",
-			"summary": "Steyn inscrit les premiers points de ce match. Il était à 35 mètres à gauche. 3 à 0 en faveur du stade Français."
+			"summary": "Steyn inscrit les premiers points de ce match. Il était à 35 mètres à gauche. 3 à 0 en faveur du stade Français.",
+			"duration": 34029,
+			"cams": [
+				{
+					"id": "CAM18",
+					"displayName": "",
+					"mediaUrl": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/outputs/BDF/E03/51E/BDFE0351E25BF906DCCCB629B82AC575_web-mp4.mp4"
+				},
+				{
+					"id": "CAM19",
+					"displayName": "",
+					"mediaUrl": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/outputs/9EA/A65/1E7/9EAA651E7E16CC4D6268A8FB8316CE64_web-mp4.mp4"
+				},
+				{
+					"id": "CAM20",
+					"displayName": "",
+					"mediaUrl": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/outputs/8F2/DDE/0DE/8F2DDE0DE94C4643705B8A2D6604C6E9_web-mp4.mp4"
+				}
+			]
 		}
 	}
 ]
