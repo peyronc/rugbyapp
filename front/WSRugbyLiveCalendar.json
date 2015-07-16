@@ -41,12 +41,6 @@
                 "displayName": "Fidji",
                 "logo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
                 "score": 3
-              },
-              "onClick": {
-                "URLPage": "http://rugby-service.canalplus.com/page/11251d0b586d51c02553702af5926d5b/0.json?id=1273775&params[type]=match",
-                "displayTemplate": "sportTemplate",
-                "displayName": "Nouvelle-Zelande - Géorgie",
-                "URLVitrine": "http://rugby-service.canalplus.com/highlight/11251d0b586d51c02553702af5926d5b/0.json?id=1273775&params[type]=match"
               }
             }
           ]
@@ -80,10 +74,10 @@
                 "winner": true
               },
               "onClick": {
-                "URLPage": "http://rugby-service.canalplus.com/page/11251d0b586d51c02553702af5926d5b/0.json?id=1273775&params[type]=match",
+                "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLive.json",
                 "displayTemplate": "sportTemplate",
                 "displayName": "Nouvelle-Zelande - Géorgie",
-                "URLVitrine": "http://rugby-service.canalplus.com/highlight/11251d0b586d51c02553702af5926d5b/0.json?id=1273775&params[type]=match"
+                "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json"
               }
             },
             {
@@ -105,10 +99,10 @@
                 "score": 12
               },
               "onClick": {
-                "URLPage": "http://rugby-service.canalplus.com/page/11251d0b586d51c02553702af5926d5b/0.json?id=1273775&params[type]=match",
+                "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLive.json",
                 "displayTemplate": "sportTemplate",
                 "displayName": "Colomiers - Biarritz",
-                "URLVitrine": "http://rugby-service.canalplus.com/highlight/11251d0b586d51c02553702af5926d5b/0.json?id=1273775&params[type]=match"
+                "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json"
               }
             }
           ]
@@ -142,10 +136,10 @@
                 "score": 15
               },
               "onClick": {
-                "URLPage": "http://rugby-service.canalplus.com/page/11251d0b586d51c02553702af5926d5b/0.json?id=1273775&params[type]=match",
+                "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLive.json",
                 "displayTemplate": "sportTemplate",
                 "displayName": "France - Italie",
-                "URLVitrine": "http://rugby-service.canalplus.com/highlight/11251d0b586d51c02553702af5926d5b/0.json?id=1273775&params[type]=match"
+                "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json"
               }
             }
           ]
