@@ -1,0 +1,549 @@
+{
+  "currentPage": {
+    "displayTemplate": "vitrine",
+    "displayName": "Infos",
+    "autorefresh": 30000,
+    "pullToRefresh" : true
+  },
+  "strates": [
+    {
+      "type": "sportVitrine",
+      "sport": "rugby",
+      "status": "live",
+      "displayStatus": "En cours",
+      "eventStartDate": 1414267200,
+      "tvChannel": "CANAL+",
+      "tvChannelLogo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+      "homeTeam": {
+        "displayName": "France",
+        "logo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+        "score": 23,
+        "winner": true,
+        "stats": [
+          {
+            "type": "try",
+            "value": 2,
+            "events": [
+              {
+                "time": "45'",
+                "playerName": "D.Dominguez"
+              },
+              {
+                "time": "50'",
+                "playerName": "M. Bergamasco"
+              }
+            ]
+          },
+          {
+            "type": "drop",
+            "value": 1,
+            "events": [
+              {
+                "time": "21'",
+                "playerName": "M. Bergamasco"
+              }
+            ]
+          },
+          {
+            "type": "conversion",
+            "value": 2,
+            "events": [
+              {
+                "time": "45'",
+                "playerName": "D.Dominguez"
+              },
+              {
+                "time": "50'",
+                "playerName": "M. Bergamasco"
+              }
+            ]
+          },
+          {
+            "type": "penalty",
+            "value": 2,
+            "events": [
+              {
+                "time": "45'",
+                "playerName": "D.Dominguez"
+              },
+              {
+                "time": "50'",
+                "playerName": "M. Bergamasco"
+              }
+            ]
+          }
+        ]
+      },
+      "awayTeam": {
+        "DisplayName": "Italie",
+        "Logo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+        "score": 15,
+        "stats": [
+          {
+            "type": "try",
+            "value": 2,
+            "events": [
+              {
+                "time": "45'",
+                "playerName": "D.Dominguez"
+              },
+              {
+                "time": "50'",
+                "playerName": "M. Bergamasco"
+              }
+            ]
+          },
+          {
+            "type": "drop",
+            "value": 1,
+            "events": [
+              {
+                "time": "21'",
+                "playerName": "M. Bergamasco"
+              }
+            ]
+          },
+          {
+            "type": "conversion",
+            "value": 2,
+            "events": [
+              {
+                "time": "45'",
+                "playerName": "D.Dominguez"
+              },
+              {
+                "time": "50'",
+                "playerName": "M. Bergamasco"
+              }
+            ]
+          },
+          {
+            "type": "penalty",
+            "value": 2,
+            "events": [
+              {
+                "time": "45'",
+                "playerName": "D.Dominguez"
+              },
+              {
+                "time": "50'",
+                "playerName": "M. Bergamasco"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "buttonVitrine",
+      "buttonstype": [
+        {
+          "title": "Compositions",
+          "picto": "composition",
+          "onClick": {
+            "URLPage": "http://preprod-f1-service.canalplus.com/page/11251d0b586d51c02553702af5926d5b/2855.json?cache=60000",
+            "displayTemplate": "SportComposition",
+            "displayName": "Compositions",
+            "displayType": "tab"
+          }
+        },
+        {
+          "title": "Statistiques",
+          "picto": "stats",
+          "onClick": {
+            "URLPage": "http://preprod-f1-service.canalplus.com/page/11251d0b586d51c02553702af5926d5b/2855.json?cache=60000",
+            "displayTemplate": "SportStats",
+            "displayName": "Statistiques",
+            "displayType": "tab"
+          }
+        },
+        {
+          "title": "Résultats",
+          "picto": "results",
+          "onClick": {
+            "URLPage": "http://preprod-f1-service.canalplus.com/page/11251d0b586d51c02553702af5926d5b/2855.json?cache=60000",
+            "displayTemplate": "sportResults",
+            "displayName": "Résultats",
+            "displayType": "tab"
+          }
+        }
+      ]
+    }
+  ],
+  "timeline": {
+    "contents": [
+      {
+        "title": "Temps forts",
+        "type": "timeline",
+        "nbContentPortrait": 20,
+        "nbContentLandscape": 20,
+        "contents": [
+          {
+            "type": "ccast",
+            "contentID": "3251_29104",
+            "highlight" : true,
+            "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/366/216/232/366216232A148DDA37877FF4CFD6108B_212x159.png",
+            "title": "Essai de T. Dusautoir",
+            "summary": "Après un intense pilonnage, Plisson monte une chandelle dans l'en-but. Bergamasco et...",
+            "picto": "try",
+            "time": "53'",
+            "onClick": {
+              "URLPage": "http://f1-service.mycanal.fr/page/9ed129745dbc64c7b5eaa583924f7e5d/3202.json?params[type]=ccast&id=3251&params[episode]=29104&cache=60000",
+              "displayTemplate": "multicamDetailPage",
+              "displayName": "France - Australie",
+              "URLVitrine": "http://f1-service.mycanal.fr/highlight/9ed129745dbc64c7b5eaa583924f7e5d/0.json?params[type]=ccast&id=3251&params[episode]=29104&cache=60000&params[pid]=3202"
+            }
+          },
+          {
+            "type": "ccast",
+            "contentID": "3251_29103",
+            "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/166/0C4/95D/1660C495D4E463C287A7A079966436CD_212x159.png",
+            "title": "Carton jaune pour Papé",
+            "summary": "P.Papé sanctionné d'un carton jaune pour un mauvais geste.",
+            "picto": "yellowCard",
+            "time": "50'",
+            "onClick": {
+              "URLPage": "http://f1-service.mycanal.fr/page/9ed129745dbc64c7b5eaa583924f7e5d/3202.json?params[type]=ccast&id=3251&params[episode]=29103&cache=60000",
+              "displayTemplate": "multicamDetailPage",
+              "displayName": "France - Australie",
+              "URLVitrine": "http://f1-service.mycanal.fr/highlight/9ed129745dbc64c7b5eaa583924f7e5d/0.json?params[type]=ccast&id=3251&params[episode]=29103&cache=60000&params[pid]=3202"
+            }
+          },
+          {
+            "type": "ccast",
+            "contentID": "3251_29102",
+            "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/494/DC0/4C1/494DC04C13AC99008DA5AC2FDBC2A477_212x159.png",
+            "title": "Pénalité de Mirco Bergamasco",
+            "summary": "L'italien est en grande réussite cette après-midi, avec 5 réussites sur 5 tentatives",
+            "picto": "conversion",
+            "onClick": {
+              "URLPage": "http://f1-service.mycanal.fr/page/9ed129745dbc64c7b5eaa583924f7e5d/3202.json?params[type]=ccast&id=3251&params[episode]=29102&cache=60000",
+              "displayTemplate": "multicamDetailPage",
+              "displayName": "France - Australie",
+              "URLVitrine": "http://f1-service.mycanal.fr/highlight/9ed129745dbc64c7b5eaa583924f7e5d/0.json?params[type]=ccast&id=3251&params[episode]=29102&cache=60000&params[pid]=3202"
+            }
+          },
+          {
+            "type": "ccast",
+            "contentID": "3251_29101",
+            "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/5EE/ED9/032/5EEED903257C2C991AB096955A782173_212x159.png",
+            "title": "Pénalité de F.Michalak",
+            "highlight" : true,
+            "summary": "La pénalité de Fred Michalak tape le poteau et atterit entre les barres",
+            "time": "47'",
+            "onClick": {
+              "URLPage": "http://f1-service.mycanal.fr/page/9ed129745dbc64c7b5eaa583924f7e5d/3202.json?params[type]=ccast&id=3251&params[episode]=29101&cache=60000",
+              "displayTemplate": "multicamDetailPage",
+              "displayName": "France - Australie",
+              "URLVitrine": "http://f1-service.mycanal.fr/highlight/9ed129745dbc64c7b5eaa583924f7e5d/0.json?params[type]=ccast&id=3251&params[episode]=29101&cache=60000&params[pid]=3202"
+            }
+          },
+          {
+            "type": "ccast",
+            "contentID": "3251_29100",
+            "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/3ED/D24/72A/3EDD2472AA58B0EE14D29632431BFFB8_212x159.png",
+            "title": "Percée de Yoahn Huget",
+            "summary": "Incroyable percée de Yohan Huget qui est rattrapé à cinq mètres de la ligne d'en-but.",
+            "onClick": {
+              "URLPage": "http://f1-service.mycanal.fr/page/9ed129745dbc64c7b5eaa583924f7e5d/3202.json?params[type]=ccast&id=3251&params[episode]=29100&cache=60000",
+              "displayTemplate": "multicamDetailPage",
+              "displayName": "VICTOIRE VETTEL",
+              "URLVitrine": "http://f1-service.mycanal.fr/highlight/9ed129745dbc64c7b5eaa583924f7e5d/0.json?params[type]=ccast&id=3251&params[episode]=29100&cache=60000&params[pid]=3202"
+            }
+          }
+        ]
+      },
+      {
+        "type": "contentsVitrine",
+        "title": "Les actualités du GP d'Australie",
+        "nbContentPortrait": 20,
+        "nbContentLandscape": 20,
+        "contents": [
+          {
+            "type": "quicktime",
+            "URLImage43": "http://media.canal-plus.com/wwwplus/image/1/19/6/nip-nip-47729-640x360-ehi3d.10121.jpg",
+            "title": "Grand Prix d'Australie",
+            "summary": "On Board",
+            "contentID": "1234366",
+            "onClick": {
+              "URLPage": "http://preprod-f1-service.canalplus.com/page/11251d0b586d51c02553702af5926d5b/0.json?id=1234366&params[type]=pfv",
+              "displayTemplate": "quicktime",
+              "displayName": "Grand Prix d'Australie",
+              "URLVitrine": "http://preprod-f1-service.canalplus.com/highlight/11251d0b586d51c02553702af5926d5b/0.json?id=1234366&params[type]=pfv",
+              "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/11251d0b586d51c02553702af5926d5b/1234366.json?pfv={FORMAT}&cache=1800000"
+            }
+          },
+          {
+            "type": "quicktime",
+            "URLImage43": "http://media.canal-plus.com/wwwplus/image/1/19/6/nip-nip-47523-640x360-twrrn.10121.jpg",
+            "title": "Grand Prix d'Australie",
+            "summary": "Hamilton réagit à la polémique",
+            "contentID": "1233645",
+            "onClick": {
+              "URLPage": "http://preprod-f1-service.canalplus.com/page/11251d0b586d51c02553702af5926d5b/0.json?id=1233645&params[type]=pfv",
+              "displayTemplate": "quicktime",
+              "displayName": "Grand Prix d'Australie",
+              "URLVitrine": "http://preprod-f1-service.canalplus.com/highlight/11251d0b586d51c02553702af5926d5b/0.json?id=1233645&params[type]=pfv",
+              "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/11251d0b586d51c02553702af5926d5b/1233645.json?pfv={FORMAT}&cache=1800000"
+            }
+          },
+          {
+            "type": "quicktime",
+            "URLImage43": "http://media.canal-plus.com/wwwplus/image/1/19/6/nip-nip-47373-640x360-egjpv.10121.jpg",
+            "title": "Grand Prix d'Australie",
+            "summary": "Plus de F1",
+            "contentID": "1233057",
+            "onClick": {
+              "URLPage": "http://preprod-f1-service.canalplus.com/page/11251d0b586d51c02553702af5926d5b/0.json?id=1233057&params[type]=pfv",
+              "displayTemplate": "quicktime",
+              "displayName": "Grand Prix d'Australie",
+              "URLVitrine": "http://preprod-f1-service.canalplus.com/highlight/11251d0b586d51c02553702af5926d5b/0.json?id=1233057&params[type]=pfv",
+              "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/11251d0b586d51c02553702af5926d5b/1233057.json?pfv={FORMAT}&cache=1800000"
+            }
+          },
+          {
+            "type": "quicktime",
+            "URLImage43": "http://media.canal-plus.com/wwwplus/image/1/19/6/nip-nip-47234-640x360-awpcn.10121.jpg",
+            "title": "Grand Prix d'Australie",
+            "summary": "Mercedes rafle tout",
+            "contentID": "1232637",
+            "onClick": {
+              "URLPage": "http://preprod-f1-service.canalplus.com/page/11251d0b586d51c02553702af5926d5b/0.json?id=1232637&params[type]=pfv",
+              "displayTemplate": "quicktime",
+              "displayName": "Grand Prix d'Australie",
+              "URLVitrine": "http://preprod-f1-service.canalplus.com/highlight/11251d0b586d51c02553702af5926d5b/0.json?id=1232637&params[type]=pfv",
+              "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/11251d0b586d51c02553702af5926d5b/1232637.json?pfv={FORMAT}&cache=1800000"
+            }
+          },
+          {
+            "type": "quicktime",
+            "URLImage43": "http://media.canal-plus.com/wwwplus/image/1/19/6/nip-nip-47179-640x360-aefan.10121.jpg",
+            "title": "Grand Prix d'Australie",
+            "summary": "La parade",
+            "contentID": "1232411",
+            "onClick": {
+              "URLPage": "http://preprod-f1-service.canalplus.com/page/11251d0b586d51c02553702af5926d5b/0.json?id=1232411&params[type]=pfv",
+              "displayTemplate": "quicktime",
+              "displayName": "Grand Prix d'Australie",
+              "URLVitrine": "http://preprod-f1-service.canalplus.com/highlight/11251d0b586d51c02553702af5926d5b/0.json?id=1232411&params[type]=pfv",
+              "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/11251d0b586d51c02553702af5926d5b/1232411.json?pfv={FORMAT}&cache=1800000"
+            }
+          },
+          {
+            "type": "quicktime",
+            "URLImage43": "http://media.canal-plus.com/wwwplus/image/1/19/6/nip-nip-47103-640x360-s1bxd.10121.jpg",
+            "title": "Grand Prix d'Australie",
+            "summary": "Le résumé de la course",
+            "contentID": "1231877",
+            "onClick": {
+              "URLPage": "http://preprod-f1-service.canalplus.com/page/11251d0b586d51c02553702af5926d5b/0.json?id=1231877&params[type]=pfv",
+              "displayTemplate": "quicktime",
+              "displayName": "Grand Prix d'Australie",
+              "URLVitrine": "http://preprod-f1-service.canalplus.com/highlight/11251d0b586d51c02553702af5926d5b/0.json?id=1231877&params[type]=pfv",
+              "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/11251d0b586d51c02553702af5926d5b/1231877.json?pfv={FORMAT}&cache=1800000"
+            }
+          },
+          {
+            "type": "quicktime",
+            "URLImage43": "http://media.canal-plus.com/wwwplus/image/1/19/6/nip-nip-47101-640x360-rznls.10121.jpg",
+            "title": "Grand Prix d'Australie",
+            "summary": "Interview Rosberg",
+            "contentID": "1231875",
+            "onClick": {
+              "URLPage": "http://preprod-f1-service.canalplus.com/page/11251d0b586d51c02553702af5926d5b/0.json?id=1231875&params[type]=pfv",
+              "displayTemplate": "quicktime",
+              "displayName": "Grand Prix d'Australie",
+              "URLVitrine": "http://preprod-f1-service.canalplus.com/highlight/11251d0b586d51c02553702af5926d5b/0.json?id=1231875&params[type]=pfv",
+              "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/11251d0b586d51c02553702af5926d5b/1231875.json?pfv={FORMAT}&cache=1800000"
+            }
+          },
+          {
+            "type": "quicktime",
+            "URLImage43": "http://media.canal-plus.com/wwwplus/image/1/19/6/nip-nip-47096-640x360-dhznc.10121.jpg",
+            "title": "Grand Prix d'Australie",
+            "summary": "Le film de la course",
+            "contentID": "1231794",
+            "onClick": {
+              "URLPage": "http://preprod-f1-service.canalplus.com/page/11251d0b586d51c02553702af5926d5b/0.json?id=1231794&params[type]=pfv",
+              "displayTemplate": "quicktime",
+              "displayName": "Grand Prix d'Australie",
+              "URLVitrine": "http://preprod-f1-service.canalplus.com/highlight/11251d0b586d51c02553702af5926d5b/0.json?id=1231794&params[type]=pfv",
+              "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/11251d0b586d51c02553702af5926d5b/1231794.json?pfv={FORMAT}&cache=1800000"
+            }
+          },
+          {
+            "type": "quicktime",
+            "URLImage43": "http://media.canal-plus.com/wwwplus/image/1/19/6/nip-nip-47097-640x360-bgdmv.10121.jpg",
+            "title": "Grand Prix d'Australie",
+            "summary": "L'interview de Toto Wolff",
+            "contentID": "1231799",
+            "onClick": {
+              "URLPage": "http://preprod-f1-service.canalplus.com/page/11251d0b586d51c02553702af5926d5b/0.json?id=1231799&params[type]=pfv",
+              "displayTemplate": "quicktime",
+              "displayName": "Grand Prix d'Australie",
+              "URLVitrine": "http://preprod-f1-service.canalplus.com/highlight/11251d0b586d51c02553702af5926d5b/0.json?id=1231799&params[type]=pfv",
+              "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/11251d0b586d51c02553702af5926d5b/1231799.json?pfv={FORMAT}&cache=1800000"
+            }
+          },
+          {
+            "type": "quicktime",
+            "URLImage43": "http://media.canal-plus.com/wwwplus/image/1/19/6/nip-nip-47095-640x360-zuxdv.10121.jpg",
+            "title": "Grand Prix d'Australie",
+            "summary": "Interview Hamilton",
+            "contentID": "1231787",
+            "onClick": {
+              "URLPage": "http://preprod-f1-service.canalplus.com/page/11251d0b586d51c02553702af5926d5b/0.json?id=1231787&params[type]=pfv",
+              "displayTemplate": "quicktime",
+              "displayName": "Grand Prix d'Australie",
+              "URLVitrine": "http://preprod-f1-service.canalplus.com/highlight/11251d0b586d51c02553702af5926d5b/0.json?id=1231787&params[type]=pfv",
+              "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/11251d0b586d51c02553702af5926d5b/1231787.json?pfv={FORMAT}&cache=1800000"
+            }
+          },
+          {
+            "type": "quicktime",
+            "URLImage43": "http://media.canal-plus.com/wwwplus/image/1/19/6/nip-nip-47094-640x360-s2zpa.10121.jpg",
+            "title": "Grand Prix d'Australie",
+            "summary": "Le podium",
+            "contentID": "1231785",
+            "onClick": {
+              "URLPage": "http://preprod-f1-service.canalplus.com/page/11251d0b586d51c02553702af5926d5b/0.json?id=1231785&params[type]=pfv",
+              "displayTemplate": "quicktime",
+              "displayName": "Grand Prix d'Australie",
+              "URLVitrine": "http://preprod-f1-service.canalplus.com/highlight/11251d0b586d51c02553702af5926d5b/0.json?id=1231785&params[type]=pfv",
+              "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/11251d0b586d51c02553702af5926d5b/1231785.json?pfv={FORMAT}&cache=1800000"
+            }
+          },
+          {
+            "type": "quicktime",
+            "URLImage43": "http://media.canal-plus.com/wwwplus/image/1/19/6/nip-nip-47093-640x360-zvbtq.10121.jpg",
+            "title": "Grand Prix d'Australie",
+            "summary": "Victoire Hamilton",
+            "contentID": "1231781",
+            "onClick": {
+              "URLPage": "http://preprod-f1-service.canalplus.com/page/11251d0b586d51c02553702af5926d5b/0.json?id=1231781&params[type]=pfv",
+              "displayTemplate": "quicktime",
+              "displayName": "Grand Prix d'Australie",
+              "URLVitrine": "http://preprod-f1-service.canalplus.com/highlight/11251d0b586d51c02553702af5926d5b/0.json?id=1231781&params[type]=pfv",
+              "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/11251d0b586d51c02553702af5926d5b/1231781.json?pfv={FORMAT}&cache=1800000"
+            }
+          },
+          {
+            "type": "quicktime",
+            "URLImage43": "http://media.canal-plus.com/wwwplus/image/1/19/6/nip-nip-47092-640x360-ylpqa.10121.jpg",
+            "title": "Grand Prix d'Australie",
+            "summary": "Raikkonen abandon",
+            "contentID": "1231777",
+            "onClick": {
+              "URLPage": "http://preprod-f1-service.canalplus.com/page/11251d0b586d51c02553702af5926d5b/0.json?id=1231777&params[type]=pfv",
+              "displayTemplate": "quicktime",
+              "displayName": "Grand Prix d'Australie",
+              "URLVitrine": "http://preprod-f1-service.canalplus.com/highlight/11251d0b586d51c02553702af5926d5b/0.json?id=1231777&params[type]=pfv",
+              "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/11251d0b586d51c02553702af5926d5b/1231777.json?pfv={FORMAT}&cache=1800000"
+            }
+          },
+          {
+            "type": "quicktime",
+            "URLImage43": "http://media.canal-plus.com/wwwplus/image/1/19/6/nip-nip-47091-640x360-blhzq.10121.jpg",
+            "title": "Grand Prix d'Australie",
+            "summary": "Déception Grosjean",
+            "contentID": "1231772",
+            "onClick": {
+              "URLPage": "http://preprod-f1-service.canalplus.com/page/11251d0b586d51c02553702af5926d5b/0.json?id=1231772&params[type]=pfv",
+              "displayTemplate": "quicktime",
+              "displayName": "Grand Prix d'Australie",
+              "URLVitrine": "http://preprod-f1-service.canalplus.com/highlight/11251d0b586d51c02553702af5926d5b/0.json?id=1231772&params[type]=pfv",
+              "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/11251d0b586d51c02553702af5926d5b/1231772.json?pfv={FORMAT}&cache=1800000"
+            }
+          },
+          {
+            "type": "quicktime",
+            "URLImage43": "http://media.canal-plus.com/wwwplus/image/1/19/6/nip-nip-47090-640x360-ow9xu.10121.jpg",
+            "title": "Grand Prix d'Australie",
+            "summary": "Panne Daniil Kvyat",
+            "contentID": "1231768",
+            "onClick": {
+              "URLPage": "http://preprod-f1-service.canalplus.com/page/11251d0b586d51c02553702af5926d5b/0.json?id=1231768&params[type]=pfv",
+              "displayTemplate": "quicktime",
+              "displayName": "Grand Prix d'Australie",
+              "URLVitrine": "http://preprod-f1-service.canalplus.com/highlight/11251d0b586d51c02553702af5926d5b/0.json?id=1231768&params[type]=pfv",
+              "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/11251d0b586d51c02553702af5926d5b/1231768.json?pfv={FORMAT}&cache=1800000"
+            }
+          },
+          {
+            "type": "quicktime",
+            "URLImage43": "http://media.canal-plus.com/wwwplus/image/1/19/6/nip-nip-47089-640x360-v2rdw.10121.jpg",
+            "title": "Grand Prix d'Australie",
+            "summary": "Stand Ferrari",
+            "contentID": "1231760",
+            "onClick": {
+              "URLPage": "http://preprod-f1-service.canalplus.com/page/11251d0b586d51c02553702af5926d5b/0.json?id=1231760&params[type]=pfv",
+              "displayTemplate": "quicktime",
+              "displayName": "Grand Prix d'Australie",
+              "URLVitrine": "http://preprod-f1-service.canalplus.com/highlight/11251d0b586d51c02553702af5926d5b/0.json?id=1231760&params[type]=pfv",
+              "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/11251d0b586d51c02553702af5926d5b/1231760.json?pfv={FORMAT}&cache=1800000"
+            }
+          },
+          {
+            "type": "quicktime",
+            "URLImage43": "http://media.canal-plus.com/wwwplus/image/1/19/6/nip-nip-47088-640x360-cnd1q.10121.jpg",
+            "title": "Grand Prix d'Australie",
+            "summary": "Sortie de route Lotus",
+            "contentID": "1231759",
+            "onClick": {
+              "URLPage": "http://preprod-f1-service.canalplus.com/page/11251d0b586d51c02553702af5926d5b/0.json?id=1231759&params[type]=pfv",
+              "displayTemplate": "quicktime",
+              "displayName": "Grand Prix d'Australie",
+              "URLVitrine": "http://preprod-f1-service.canalplus.com/highlight/11251d0b586d51c02553702af5926d5b/0.json?id=1231759&params[type]=pfv",
+              "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/11251d0b586d51c02553702af5926d5b/1231759.json?pfv={FORMAT}&cache=1800000"
+            }
+          },
+          {
+            "type": "quicktime",
+            "URLImage43": "http://media.canal-plus.com/wwwplus/image/1/19/6/nip-nip-47086-640x360-wdfme.10121.jpg",
+            "title": "Grand Prix d'Australie",
+            "summary": "La grille de départ",
+            "contentID": "1231755",
+            "onClick": {
+              "URLPage": "http://preprod-f1-service.canalplus.com/page/11251d0b586d51c02553702af5926d5b/0.json?id=1231755&params[type]=pfv",
+              "displayTemplate": "quicktime",
+              "displayName": "Grand Prix d'Australie",
+              "URLVitrine": "http://preprod-f1-service.canalplus.com/highlight/11251d0b586d51c02553702af5926d5b/0.json?id=1231755&params[type]=pfv",
+              "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/11251d0b586d51c02553702af5926d5b/1231755.json?pfv={FORMAT}&cache=1800000"
+            }
+          },
+          {
+            "type": "quicktime",
+            "URLImage43": "http://media.canal-plus.com/wwwplus/image/1/19/6/nip-nip-47087-640x360-uzfyb.10121.jpg",
+            "title": "Grand Prix d'Australie",
+            "summary": "Réactions abandon Grosjean",
+            "contentID": "1231756",
+            "onClick": {
+              "URLPage": "http://preprod-f1-service.canalplus.com/page/11251d0b586d51c02553702af5926d5b/0.json?id=1231756&params[type]=pfv",
+              "displayTemplate": "quicktime",
+              "displayName": "Grand Prix d'Australie",
+              "URLVitrine": "http://preprod-f1-service.canalplus.com/highlight/11251d0b586d51c02553702af5926d5b/0.json?id=1231756&params[type]=pfv",
+              "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/11251d0b586d51c02553702af5926d5b/1231756.json?pfv={FORMAT}&cache=1800000"
+            }
+          },
+          {
+            "type": "quicktime",
+            "URLImage43": "http://media.canal-plus.com/wwwplus/image/1/19/6/nip-nip-47055-640x360-zef6w.10121.jpg",
+            "title": "Grand Prix d'Australie",
+            "summary": "Réactions après les qualifications",
+            "contentID": "1231665",
+            "onClick": {
+              "URLPage": "http://preprod-f1-service.canalplus.com/page/11251d0b586d51c02553702af5926d5b/0.json?id=1231665&params[type]=pfv",
+              "displayTemplate": "quicktime",
+              "displayName": "Grand Prix d'Australie",
+              "URLVitrine": "http://preprod-f1-service.canalplus.com/highlight/11251d0b586d51c02553702af5926d5b/0.json?id=1231665&params[type]=pfv",
+              "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/11251d0b586d51c02553702af5926d5b/1231665.json?pfv={FORMAT}&cache=1800000"
+            }
+          }
+        ]
+      }
+    ],
+    "empty": {
+      "displayName": "Aucun contenu CCast pour le moment"
+    }
+  }
+}
