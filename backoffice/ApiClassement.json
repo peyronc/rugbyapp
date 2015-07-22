@@ -49,7 +49,7 @@
 					"diff": 0				
 				},
 				"promotion": "NOT USED"
-			}			
+			}
 		]
 	},
 	{
@@ -57,7 +57,52 @@
 		"id": "",
 		"displayName": "Poule B",
 		"teams": [
-			// Liste des équipes, triée par ordre dans le classement
+			{
+				"id": "",
+				"displayName": "France",
+				"imageUrl": "",
+				"rang": "1er",
+				"position": 1,
+				"points": {
+					"total": 0,
+					"bonus": 0,
+					"bonusOffensive": 0,
+					"bonusDefensive": 0,
+					"matchPlayed": 0,
+					"matchWon": 0,
+					"matchEquality": 0,
+					"matchLost": 0,
+					"scored": 0,
+					"against": 0,
+					"tryScored": 0,
+					"tryAgainst": 0,
+					"diff": 0				
+				},
+				"promotion": "NOT USED"
+			},
+			{
+				"id": "",
+				"displayName": "Italie",
+				"imageUrl": "",
+				"rang": "2e",
+				"position": 2,
+				"points": {
+					"total": 0,
+					"bonus": 0,
+					"bonusOffensive": 0,
+					"bonusDefensive": 0,
+					"matchPlayed": 0,
+					"matchWon": 0,
+					"matchEquality": 0,
+					"matchLost": 0,
+					"scored": 0,
+					"against": 0,
+					"tryScored": 0,
+					"tryAgainst": 0,
+					"diff": 0				
+				},
+				"promotion": "NOT USED"
+			}
 		]
 	}
 ]
