@@ -1,0 +1,69 @@
+﻿{
+    "currentPage": {
+        "displayName": "Essai Gratuit",
+		"displayTemplate": "slideShow",
+		"BOName": "Essai Gratuit",
+		"BOLayoutName":"Essai Gratuit iOS"
+    },
+    "slides": [
+        {
+			"URLImageLandscape": "http://image.canal-plus.com/media_app/free/infinity/images/2048x1408/991.jpg",
+			"URLImagePortrait": "http://image.canal-plus.com/media_app/free/infinity/images/1536x1920/990.jpg",
+			"imageLabel": "Ceci est un exemple pour iPad donc avec un URLImageLandscape et un URLImagePortrait",      
+			"buttons": [
+                {
+                    "buttonType": "inPage",
+					"onClick": {
+						"displayTemplate": "liveTV",
+						"URLVitrine": "http://service.mycanal.fr/highlight/bff6247b248ec8c80e87058c4b0a0259/493.json",
+						"displayName": "Live TV",
+						"BOName": "Live TV",
+						"BOLayoutName": "[Live TV - Premium] - mobiles tablettes (avec ME)"
+					},
+                    "displayName": "Essai Gratuit"
+                },
+                {
+                    "buttonType": "inPage",
+                    "onClick": {
+                        "URLPage": "http://service.mycanal.fr/page/bff6247b248ec8c80e87058c4b0a0259/894.json?cache=300000",
+                        "displayTemplate": "landing",
+                        "displayName": "CANAL+ à la demande",
+                        "BOName": "Cplus Home",
+                        "BOLayoutName": "[C+ ALD] Landing - iPhone & Android Phone (Abonne)",
+                        "displayLogo": "http://media.mycanal.fr/image/18/4/368c_.1184.151.png"
+                    },
+                    "displayName": "Accès abonnés"
+                }
+            ]
+        },
+        {
+            "URLImage": "http://image.canal-plus.com/media_app/free/infinity/images/2048x1408/1091.jpg",
+			"imageLabel": "Ceci est un exemple iPhone, donc avec juste URLImage. Bien entendu dans une réponse il ne peut pas y avoir iPhone et iPad, c'est juste pour l'exemple :)",
+			"buttons": [
+                {
+                    "buttonType": "inPage",
+					"onClick": {
+						"displayTemplate": "liveTV",
+						"URLVitrine": "http://service.mycanal.fr/highlight/bff6247b248ec8c80e87058c4b0a0259/493.json",
+						"displayName": "Live TV",
+						"BOName": "Live TV",
+						"BOLayoutName": "[Live TV - Premium] - mobiles tablettes (avec ME)"
+					},
+                    "displayName": "Essai Gratuit"
+                },
+                {
+                    "buttonType": "inPage",
+                    "onClick": {
+                        "URLPage": "http://service.mycanal.fr/page/bff6247b248ec8c80e87058c4b0a0259/894.json?cache=300000",
+                        "displayTemplate": "landing",
+                        "displayName": "CANAL+ à la demande",
+                        "BOName": "Cplus Home",
+                        "BOLayoutName": "[C+ ALD] Landing - iPhone & Android Phone (Abonne)",
+                        "displayLogo": "http://media.mycanal.fr/image/18/4/368c_.1184.151.png"
+                    },
+                    "displayName": "Accès abonnés"
+                }
+            ]
+        }
+    ]
+}
