@@ -1,0 +1,52 @@
+{
+  "currentPage": {
+    "displayTemplate": "multicamDetailPage",
+    "displayName": "France - Australie",
+    "URLVitrine": "http://preprod-f1-service.canalplus.com/highlight/11251d0b586d51c02553702af5926d5b/0.json?params[pid]=2663&id=3259&params[type]=live",
+    "URLTimeline": "http://preprod-f1-service.canalplus.com/highlight/11251d0b586d51c02553702af5926d5b/0.json?params[pid]=2663&id=3259&params[type]=live"
+  },
+  "tracking": {
+    "omniture": {
+      "s.channel": "RugbyMob",
+      "s.prop4": "RugbyMob - Live",
+      "s.prop5": "RugbyMob - Live - France Australie",
+      "s.prop6": "RugbyMob - Live - France Australie - CCast",
+      "s.prop7": "RugbyMob - Live - France Australie - CCast - Essai de Thierry Dusautoir !",
+      "s.pagename": "RugbyMob - Live - France Australie - CCast - Essai de Thierry Dusautoir !"
+    }
+  },
+  "detail": {
+    "informations": {
+      "title": "Essai de Thierry Dusautoir !",
+      "summary": "Après un beau cadrage débordement de Huget le long de la ligne de touche, ce dernier parvient à remettre un superbe ballon à T. Dusautoir qui n'a plus qu'à aplatir dans l'en-but.",
+      "type": "ccast",
+      "eventType": "rugby",
+      "contentID": 31897,
+      "URLImage": "http://.....",
+      "time": "53'",
+      "picto": "try",
+      "duration": 45000,
+      "multicam": {
+        "cameras": [
+          {
+            "camPosition": "1",
+            "URLMedias": "http://f1-service.mycanal.fr/getMediaUrl/9ed129745dbc64c7b5eaa583924f7e5d/3259.json?params[episode]=31895&params[cam]=CANAL04&ccast={CCASTFORMAT}&cache=300000"
+          },
+          {
+            "camPosition": "2",
+            "URLMedias": "http://f1-service.mycanal.fr/getMediaUrl/9ed129745dbc64c7b5eaa583924f7e5d/3259.json?params[episode]=31895&params[cam]=CANAL04&ccast={CCASTFORMAT}&cache=300000"
+          },
+          {
+            "camPosition": "5",
+            "URLMedias": "http://f1-service.mycanal.fr/getMediaUrl/9ed129745dbc64c7b5eaa583924f7e5d/3259.json?params[episode]=31895&params[cam]=CANAL04&ccast={CCASTFORMAT}&cache=300000"
+          },
+          {
+            "camPosition": "bonus1",
+            "URLMedias": "http://f1-service.mycanal.fr/getMediaUrl/9ed129745dbc64c7b5eaa583924f7e5d/3259.json?params[episode]=31895&params[cam]=CANAL04&ccast={CCASTFORMAT}&cache=300000",
+            "displayName": "Bonus 1"
+          }
+        ]
+      }
+    }
+  }
+}
