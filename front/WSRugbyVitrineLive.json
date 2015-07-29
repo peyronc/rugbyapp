@@ -3,7 +3,7 @@
     "displayTemplate": "vitrine",
     "displayName": "Infos",
     "autorefresh": 30000,
-    "pullToRefresh" : true
+    "pullToRefresh": true
   },
   "strates": [
     {
@@ -22,7 +22,8 @@
         "stats": [
           {
             "type": "try",
-            "value": 2,
+            "displayName": "Essais",
+            "value": 3,
             "events": [
               {
                 "time": "45'",
@@ -31,21 +32,16 @@
               {
                 "time": "50'",
                 "playerName": "M. Bergamasco"
-              }
-            ]
-          },
-          {
-            "type": "drop",
-            "value": 1,
-            "events": [
+              },
               {
-                "time": "21'",
-                "playerName": "M. Bergamasco"
+                "time": "81'",
+                "playerName": "F. Michalak"
               }
             ]
           },
           {
             "type": "conversion",
+            "displayName": "Transformations",
             "value": 2,
             "events": [
               {
@@ -60,6 +56,7 @@
           },
           {
             "type": "penalty",
+            "displayName": "Pénalités",
             "value": 2,
             "events": [
               {
@@ -68,6 +65,17 @@
               },
               {
                 "time": "50'",
+                "playerName": "M. Bergamasco"
+              }
+            ]
+          },
+          {
+            "type": "drop",
+            "displayName": "Drop",
+            "value": 1,
+            "events": [
+              {
+                "time": "21'",
                 "playerName": "M. Bergamasco"
               }
             ]
@@ -81,30 +89,7 @@
         "stats": [
           {
             "type": "try",
-            "value": 2,
-            "events": [
-              {
-                "time": "45'",
-                "playerName": "D.Dominguez"
-              },
-              {
-                "time": "50'",
-                "playerName": "M. Bergamasco"
-              }
-            ]
-          },
-          {
-            "type": "drop",
-            "value": 1,
-            "events": [
-              {
-                "time": "21'",
-                "playerName": "M. Bergamasco"
-              }
-            ]
-          },
-          {
-            "type": "conversion",
+            "displayName": "Essais",
             "value": 2,
             "events": [
               {
@@ -119,15 +104,12 @@
           },
           {
             "type": "penalty",
-            "value": 2,
+            "displayName": "Pénalité",
+            "value": 1,
             "events": [
               {
-                "time": "45'",
+                "time": "82'",
                 "playerName": "D.Dominguez"
-              },
-              {
-                "time": "50'",
-                "playerName": "M. Bergamasco"
               }
             ]
           }
@@ -181,7 +163,7 @@
           {
             "type": "ccast",
             "contentID": "3251_29104",
-            "highlight" : true,
+            "highlight": true,
             "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/366/216/232/366216232A148DDA37877FF4CFD6108B_212x159.png",
             "title": "Essai de T. Dusautoir",
             "summary": "Après un intense pilonnage, Plisson monte une chandelle dans l'en-but. Bergamasco et...",
@@ -228,7 +210,7 @@
             "contentID": "3251_29101",
             "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/5EE/ED9/032/5EEED903257C2C991AB096955A782173_212x159.png",
             "title": "Pénalité de F.Michalak",
-            "highlight" : true,
+            "highlight": true,
             "summary": "La pénalité de Fred Michalak tape le poteau et atterit entre les barres",
             "time": "47'",
             "onClick": {
