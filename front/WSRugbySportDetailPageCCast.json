@@ -1,9 +1,8 @@
 {
   "currentPage": {
-    "displayTemplate": "multicamDetailPage",
+    "displayTemplate": "sportDetailPage",
     "displayName": "France - Australie",
-    "URLVitrine": "http://preprod-f1-service.canalplus.com/highlight/11251d0b586d51c02553702af5926d5b/0.json?params[pid]=2663&id=3259&params[type]=live",
-    "URLTimeline": "http://preprod-f1-service.canalplus.com/highlight/11251d0b586d51c02553702af5926d5b/0.json?params[pid]=2663&id=3259&params[type]=live"
+    "URLVitrine": "http://preprod-f1-service.canalplus.com/highlight/11251d0b586d51c02553702af5926d5b/0.json?params[pid]=2663&id=3259&params[type]=live"
   },
   "tracking": {
     "omniture": {
