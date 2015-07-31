@@ -76,7 +76,7 @@
 								"events": [
 									{
 										"type": {
-											"id":"TRY",
+											"id":"try",
 											"display":"Essai"
 										},
 										"player": {
@@ -94,7 +94,7 @@
 									},
 									{
 										"type": {
-											"id":"CONV",
+											"id":"conversion",
 											"display":"Conversion"
 										},
 										"player": {
@@ -112,7 +112,7 @@
 									},
 									{
 										"type": {
-											"id":"PENK",
+											"id":"penalty",
 											"display":"Pénalité"
 										},
 										"player": {
@@ -130,8 +130,8 @@
 									},
 									{
 										"type": {
-											"id":"DROPG",
-											"display":"Drop"
+											"id":"drop",
+											"display":"drop"
 										},
 										"player": {
 											"id":"2015_203_9646",
@@ -164,7 +164,7 @@
 								"events": [
 									{
 										"type": {
-											"id":"TRY",
+											"id":"try",
 											"display":"Essai"
 										},
 										"player": {
@@ -182,7 +182,7 @@
 									},
 									{
 										"type": {
-											"id":"CONV",
+											"id":"conversion",
 											"display":"Conversion"
 										},
 										"player": {
@@ -200,7 +200,7 @@
 									},
 									{
 										"type": {
-											"id":"PENK",
+											"id":"penalty",
 											"display":"Pénalité"
 										},
 										"player": {
@@ -218,8 +218,8 @@
 									},
 									{
 										"type": {
-											"id":"DROPG",
-											"display":"Drop"
+											"id":"drop",
+											"display":"drop"
 										},
 										"player": {
 											"id":"2015_203_19345",
@@ -311,7 +311,7 @@
 								"events": [
 									{
 										"type": {
-											"id":"TRY",
+											"id":"try",
 											"display":"Essai"
 										},
 										"player": {
@@ -329,7 +329,7 @@
 									},
 									{
 										"type": {
-											"id":"CONV",
+											"id":"conversion",
 											"display":"Conversion"
 										},
 										"player": {
@@ -347,7 +347,7 @@
 									},
 									{
 										"type": {
-											"id":"PENK",
+											"id":"penalty",
 											"display":"Pénalité"
 										},
 										"player": {
@@ -365,8 +365,8 @@
 									},
 									{
 										"type": {
-											"id":"DROPG",
-											"display":"Drop"
+											"id":"drop",
+											"display":"drop"
 										},
 										"player": {
 											"id":"2015_203_9646",
@@ -399,7 +399,7 @@
 								"events": [
 									{
 										"type": {
-											"id":"TRY",
+											"id":"try",
 											"display":"Essai"
 										},
 										"player": {
@@ -417,7 +417,7 @@
 									},
 									{
 										"type": {
-											"id":"CONV",
+											"id":"conversion",
 											"display":"Conversion"
 										},
 										"player": {
@@ -435,7 +435,7 @@
 									},
 									{
 										"type": {
-											"id":"PENK",
+											"id":"penalty",
 											"display":"Pénalité"
 										},
 										"player": {
@@ -453,8 +453,8 @@
 									},
 									{
 										"type": {
-											"id":"DROPG",
-											"display":"Drop"
+											"id":"drop",
+											"display":"drop"
 										},
 										"player": {
 											"id":"2015_203_19345",
@@ -539,7 +539,7 @@
 								"events": [
 									{
 										"type": {
-											"id":"TRY",
+											"id":"try",
 											"display":"Essai"
 										},
 										"player": {
@@ -557,7 +557,7 @@
 									},
 									{
 										"type": {
-											"id":"CONV",
+											"id":"conversion",
 											"display":"Conversion"
 										},
 										"player": {
@@ -575,7 +575,7 @@
 									},
 									{
 										"type": {
-											"id":"PENK",
+											"id":"penalty",
 											"display":"Pénalité"
 										},
 										"player": {
@@ -593,8 +593,8 @@
 									},
 									{
 										"type": {
-											"id":"DROPG",
-											"display":"Drop"
+											"id":"drop",
+											"display":"drop"
 										},
 										"player": {
 											"id":"2015_203_9646",
@@ -627,7 +627,7 @@
 								"events": [
 									{
 										"type": {
-											"id":"TRY",
+											"id":"try",
 											"display":"Essai"
 										},
 										"player": {
@@ -645,7 +645,7 @@
 									},
 									{
 										"type": {
-											"id":"CONV",
+											"id":"conversion",
 											"display":"Conversion"
 										},
 										"player": {
@@ -663,7 +663,7 @@
 									},
 									{
 										"type": {
-											"id":"PENK",
+											"id":"penalty",
 											"display":"Pénalité"
 										},
 										"player": {
@@ -681,8 +681,8 @@
 									},
 									{
 										"type": {
-											"id":"DROPG",
-											"display":"Drop"
+											"id":"drop",
+											"display":"drop"
 										},
 										"player": {
 											"id":"2015_203_19345",
@@ -774,7 +774,7 @@
 								"events": [
 									{
 										"type": {
-											"id":"TRY",
+											"id":"try",
 											"display":"Essai"
 										},
 										"player": {
@@ -792,7 +792,7 @@
 									},
 									{
 										"type": {
-											"id":"CONV",
+											"id":"conversion",
 											"display":"Conversion"
 										},
 										"player": {
@@ -810,7 +810,7 @@
 									},
 									{
 										"type": {
-											"id":"PENK",
+											"id":"penalty",
 											"display":"Pénalité"
 										},
 										"player": {
@@ -828,8 +828,8 @@
 									},
 									{
 										"type": {
-											"id":"DROPG",
-											"display":"Drop"
+											"id":"drop",
+											"display":"drop"
 										},
 										"player": {
 											"id":"2015_203_9646",
@@ -862,7 +862,7 @@
 								"events": [
 									{
 										"type": {
-											"id":"TRY",
+											"id":"try",
 											"display":"Essai"
 										},
 										"player": {
@@ -880,7 +880,7 @@
 									},
 									{
 										"type": {
-											"id":"CONV",
+											"id":"conversion",
 											"display":"Conversion"
 										},
 										"player": {
@@ -898,7 +898,7 @@
 									},
 									{
 										"type": {
-											"id":"PENK",
+											"id":"penalty",
 											"display":"Pénalité"
 										},
 										"player": {
@@ -916,8 +916,8 @@
 									},
 									{
 										"type": {
-											"id":"DROPG",
-											"display":"Drop"
+											"id":"drop",
+											"display":"drop"
 										},
 										"player": {
 											"id":"2015_203_19345",
@@ -1015,7 +1015,7 @@
 								"events": [
 									{
 										"type": {
-											"id":"TRY",
+											"id":"try",
 											"display":"Essai"
 										},
 										"player": {
@@ -1033,7 +1033,7 @@
 									},
 									{
 										"type": {
-											"id":"CONV",
+											"id":"conversion",
 											"display":"Conversion"
 										},
 										"player": {
@@ -1051,7 +1051,7 @@
 									},
 									{
 										"type": {
-											"id":"PENK",
+											"id":"penalty",
 											"display":"Pénalité"
 										},
 										"player": {
@@ -1069,8 +1069,8 @@
 									},
 									{
 										"type": {
-											"id":"DROPG",
-											"display":"Drop"
+											"id":"drop",
+											"display":"drop"
 										},
 										"player": {
 											"id":"2015_203_9646",
@@ -1103,7 +1103,7 @@
 								"events": [
 									{
 										"type": {
-											"id":"TRY",
+											"id":"try",
 											"display":"Essai"
 										},
 										"player": {
@@ -1121,7 +1121,7 @@
 									},
 									{
 										"type": {
-											"id":"CONV",
+											"id":"conversion",
 											"display":"Conversion"
 										},
 										"player": {
@@ -1139,7 +1139,7 @@
 									},
 									{
 										"type": {
-											"id":"PENK",
+											"id":"penalty",
 											"display":"Pénalité"
 										},
 										"player": {
@@ -1157,8 +1157,8 @@
 									},
 									{
 										"type": {
-											"id":"DROPG",
-											"display":"Drop"
+											"id":"drop",
+											"display":"drop"
 										},
 										"player": {
 											"id":"2015_203_19345",
