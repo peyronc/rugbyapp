@@ -25,27 +25,25 @@
       "time": "53'",
       "picto": "try",
       "duration": 45000,
-      "multicam": {
-        "cameras": [
-          {
-            "camPosition": "1",
-            "URLMedias": "http://f1-service.mycanal.fr/getMediaUrl/9ed129745dbc64c7b5eaa583924f7e5d/3259.json?params[episode]=31895&params[cam]=CANAL04&ccast={CCASTFORMAT}&cache=300000"
-          },
-          {
-            "camPosition": "2",
-            "URLMedias": "http://f1-service.mycanal.fr/getMediaUrl/9ed129745dbc64c7b5eaa583924f7e5d/3259.json?params[episode]=31895&params[cam]=CANAL04&ccast={CCASTFORMAT}&cache=300000"
-          },
-          {
-            "camPosition": "5",
-            "URLMedias": "http://f1-service.mycanal.fr/getMediaUrl/9ed129745dbc64c7b5eaa583924f7e5d/3259.json?params[episode]=31895&params[cam]=CANAL04&ccast={CCASTFORMAT}&cache=300000"
-          },
-          {
-            "camPosition": "bonus1",
-            "URLMedias": "http://f1-service.mycanal.fr/getMediaUrl/9ed129745dbc64c7b5eaa583924f7e5d/3259.json?params[episode]=31895&params[cam]=CANAL04&ccast={CCASTFORMAT}&cache=300000",
-            "displayName": "Bonus 1"
-          }
-        ]
-      }
+      "multicam": [
+        {
+          "camPosition": "1",
+          "URLMedias": "http://f1-service.mycanal.fr/getMediaUrl/9ed129745dbc64c7b5eaa583924f7e5d/3259.json?params[episode]=31895&params[cam]=CANAL04&ccast={CCASTFORMAT}&cache=300000"
+        },
+        {
+          "camPosition": "2",
+          "URLMedias": "http://f1-service.mycanal.fr/getMediaUrl/9ed129745dbc64c7b5eaa583924f7e5d/3259.json?params[episode]=31895&params[cam]=CANAL04&ccast={CCASTFORMAT}&cache=300000"
+        },
+        {
+          "camPosition": "5",
+          "URLMedias": "http://f1-service.mycanal.fr/getMediaUrl/9ed129745dbc64c7b5eaa583924f7e5d/3259.json?params[episode]=31895&params[cam]=CANAL04&ccast={CCASTFORMAT}&cache=300000"
+        },
+        {
+          "camPosition": "bonus1",
+          "URLMedias": "http://f1-service.mycanal.fr/getMediaUrl/9ed129745dbc64c7b5eaa583924f7e5d/3259.json?params[episode]=31895&params[cam]=CANAL04&ccast={CCASTFORMAT}&cache=300000",
+          "displayName": "Bonus 1"
+        }
+      ]
     }
   }
 }
