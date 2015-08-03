@@ -12,6 +12,7 @@
       "status": "live",
       "displayStatus": "En cours",
       "eventStartDate": 1414267200,
+      "displayTime" : "20h00",
       "tvChannel": "CANAL+",
       "tvChannelLogo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
       "homeTeam": {
