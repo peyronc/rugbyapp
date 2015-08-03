@@ -26,7 +26,7 @@
 							"cams": [
 								{
 									"epgID":"9",
-									"displayName":"Réalisé C+",
+									"displayName":"RÃ©alisÃ© C+",
 									"picto":"antenne"
 								},
 								{
@@ -44,7 +44,7 @@
 						"status": {
 							"id":"finished",
 							"name":"termine",
-							"displayName":"Match terminé"
+							"displayName":"Match terminÃ©"
 						},
 						"competition": {
 							"id":"203",
@@ -113,7 +113,7 @@
 									{
 										"type": {
 											"id":"penalty",
-											"display":"Pénalité"
+											"display":"PÃ©nalitÃ©"
 										},
 										"player": {
 											"id":"2015_203_19343",
@@ -201,7 +201,7 @@
 									{
 										"type": {
 											"id":"penalty",
-											"display":"Pénalité"
+											"display":"PÃ©nalitÃ©"
 										},
 										"player": {
 											"id":"2015_203_19345",
@@ -261,7 +261,7 @@
 							"cams": [
 								{
 									"epgID":"9",
-									"displayName":"Réalisé C+",
+									"displayName":"RÃ©alisÃ© C+",
 									"picto":"antenne"
 								},
 								{
@@ -279,7 +279,7 @@
 						"status": {
 							"id":"finished",
 							"name":"termine",
-							"displayName":"Match terminé"
+							"displayName":"Match terminÃ©"
 						},
 						"competition": {
 							"id":"203",
@@ -348,7 +348,7 @@
 									{
 										"type": {
 											"id":"penalty",
-											"display":"Pénalité"
+											"display":"PÃ©nalitÃ©"
 										},
 										"player": {
 											"id":"2015_203_19343",
@@ -436,7 +436,7 @@
 									{
 										"type": {
 											"id":"penalty",
-											"display":"Pénalité"
+											"display":"PÃ©nalitÃ©"
 										},
 										"player": {
 											"id":"2015_203_19345",
@@ -489,7 +489,7 @@
 							"cams": [
 								{
 									"epgID":"9",
-									"displayName":"Réalisé C+",
+									"displayName":"RÃ©alisÃ© C+",
 									"picto":"antenne"
 								},
 								{
@@ -507,7 +507,7 @@
 						"status": {
 							"id":"finished",
 							"name":"termine",
-							"displayName":"Match terminé"
+							"displayName":"Match terminÃ©"
 						},
 						"competition": {
 							"id":"203",
@@ -576,7 +576,7 @@
 									{
 										"type": {
 											"id":"penalty",
-											"display":"Pénalité"
+											"display":"PÃ©nalitÃ©"
 										},
 										"player": {
 											"id":"2015_203_19343",
@@ -664,7 +664,7 @@
 									{
 										"type": {
 											"id":"penalty",
-											"display":"Pénalité"
+											"display":"PÃ©nalitÃ©"
 										},
 										"player": {
 											"id":"2015_203_19345",
@@ -724,7 +724,7 @@
 							"cams": [
 								{
 									"epgID":"9",
-									"displayName":"Réalisé C+",
+									"displayName":"RÃ©alisÃ© C+",
 									"picto":"antenne"
 								},
 								{
@@ -742,7 +742,7 @@
 						"status": {
 							"id":"finished",
 							"name":"termine",
-							"displayName":"Match terminé"
+							"displayName":"Match terminÃ©"
 						},
 						"competition": {
 							"id":"203",
@@ -811,7 +811,7 @@
 									{
 										"type": {
 											"id":"penalty",
-											"display":"Pénalité"
+											"display":"PÃ©nalitÃ©"
 										},
 										"player": {
 											"id":"2015_203_19343",
@@ -899,7 +899,7 @@
 									{
 										"type": {
 											"id":"penalty",
-											"display":"Pénalité"
+											"display":"PÃ©nalitÃ©"
 										},
 										"player": {
 											"id":"2015_203_19345",
@@ -943,6 +943,7 @@
 	{
 		"id": "2015_203_81",
 		"name": "Poule B",
+		"displayName": "Poule B",
 		"dates": [
 			{
 				"date": 1442527200,
@@ -965,7 +966,7 @@
 							"cams": [
 								{
 									"epgID":"9",
-									"displayName":"Réalisé C+",
+									"displayName":"RÃ©alisÃ© C+",
 									"picto":"antenne"
 								},
 								{
@@ -983,7 +984,7 @@
 						"status": {
 							"id":"finished",
 							"name":"termine",
-							"displayName":"Match terminé"
+							"displayName":"Match terminÃ©"
 						},
 						"competition": {
 							"id":"203",
@@ -1052,7 +1053,7 @@
 									{
 										"type": {
 											"id":"penalty",
-											"display":"Pénalité"
+											"display":"PÃ©nalitÃ©"
 										},
 										"player": {
 											"id":"2015_203_19343",
@@ -1140,7 +1141,7 @@
 									{
 										"type": {
 											"id":"penalty",
-											"display":"Pénalité"
+											"display":"PÃ©nalitÃ©"
 										},
 										"player": {
 											"id":"2015_203_19345",
