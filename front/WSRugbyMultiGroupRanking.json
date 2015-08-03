@@ -1,7 +1,9 @@
 {
   "currentPage": {
     "displayTemplate": "sportRanking",
-    "displayName": "Classement Coupe du Monde"
+    "displayName": "Classement Coupe du Monde",
+    "pullToRefresh": true,
+    "autorefresh" : 30000
   },
   "strates": [
     {
