@@ -29,6 +29,7 @@
               "status": "finished",
               "displayStatus": "Terminé",
               "eventStartDate": 1412262000,
+              "displayTime": "16h00",
               "tvChannel": "CANAL+",
               "tvChannelLogo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
               "homeTeam": {
@@ -60,6 +61,7 @@
               "status": "finished",
               "displayStatus": "Terminé",
               "eventStartDate": 1413471600,
+              "displayTime": "16h00",
               "tvChannel": "CANAL+",
               "tvChannelLogo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
               "homeTeam": {
@@ -85,6 +87,7 @@
               "status": "finished",
               "displayStatus": "Terminé",
               "eventStartDate": 1413471600,
+              "displayTime": "16h00",
               "tvChannel": "CANAL+",
               "tvChannelLogo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
               "homeTeam": {
@@ -123,6 +126,7 @@
               "status": "ongoing",
               "displayStatus": "En cours",
               "eventStartDate": 1414267200,
+              "displayTime": "16h00",
               "tvChannel": "CANAL+",
               "tvChannelLogo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
               "homeTeam": {
