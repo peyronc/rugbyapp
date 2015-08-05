@@ -2,7 +2,7 @@
   "currentPage": {
     "displayTemplate": "sportDetailPage",
     "displayName": "France - Australie",
-    "URLVitrine": "http://service.mycanal.fr/page/2934687d200bd3b2f1145c86d3150eec/1106.json?id=prod125091301&params[type]=atg&cache=21600000",
+    "URLVitrine": "https://applidium-playground.s3.amazonaws.com/canalplus/f1/WSF1DetailOtherVideos.json",
     "BOName": "Live - France - Australie",
     "BOLayoutName": "Live - France - Australie",
     "autorefresh": 30000,
@@ -34,7 +34,7 @@
         {
           "displayName": "Plan large",
           "picto": "large",
-          "URLMedias": "http://rugby-preprod.com..."
+          "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/d41326194a3c7d1d4273e9a4356d0b46/970.json?params[type]=live&cache=1800000"
         }
       ],
       "countdownTitle": "Votre match en direct dans : ",
