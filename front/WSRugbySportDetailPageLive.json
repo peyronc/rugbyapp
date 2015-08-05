@@ -2,7 +2,7 @@
   "currentPage": {
     "displayTemplate": "sportDetailPage",
     "displayName": "France - Australie",
-    "URLVitrine": "http://preprod-f1-service.canalplus.com/highlight/11251d0b586d51c02553702af5926d5b/0.json?params[pid]=2663&id=3259&params[type]=live",
+    "URLVitrine": "http://service.mycanal.fr/page/2934687d200bd3b2f1145c86d3150eec/1106.json?id=prod125091301&params[type]=atg&cache=21600000",
     "BOName": "Live - France - Australie",
     "BOLayoutName": "Live - France - Australie",
     "autorefresh": 30000,
