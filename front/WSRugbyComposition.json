@@ -1,0 +1,136 @@
+{
+  "currentPage": {
+    "displayTemplate": "composition",
+    "displayName": "France",
+    "pullToRefresh": true,
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "s.channel": "RugbyMob",
+      "s.prop4": "RugbyMob - France / Irlande",
+      "s.prop5": "RugbyMob - France / Irlande - Composition",
+      "s.prop6": "RugbyMob - France / Irlande - Composition - France",
+      "s.pagename": "RugbyMob - France / Irlande - Composition - France"
+    }
+  },
+  "strates": [
+    {
+      "type": "field",
+      "contents": [
+        {
+          "displayName": "R. Slimani",
+          "shirtNo": "1",
+          "position": "1"
+        },
+        {
+          "displayName": "D. Szarzewski",
+          "shirtNo": "2",
+          "position": "2"
+        },
+        {
+          "displayName": "V. Debaty",
+          "shirtNo": "3",
+          "position": "3"
+        },
+        {
+          "displayName": "Y. Maestri",
+          "shirtNo": "4",
+          "position": "4"
+        },
+        {
+          "displayName": "A. Flanquart",
+          "shirtNo": "5",
+          "position": "5"
+        },
+        {
+          "displayName": "B. Le Roux",
+          "shirtNo": "6",
+          "position": "6"
+        },
+        {
+          "displayName": "T. Dusautoir",
+          "shirtNo": "7",
+          "position": "7"
+        },
+        {
+          "displayName": "L. Picamoles",
+          "shirtNo": "8",
+          "position": "8"
+        },
+        {
+          "displayName": "M. Parra",
+          "shirtNo": "9",
+          "position": "9"
+        },
+        {
+          "displayName": "F. Trinh-Duc",
+          "shirtNo": "10",
+          "position": "10"
+        },
+        {
+          "displayName": "S. Guitoune",
+          "shirtNo": "11",
+          "position": "11"
+        },
+        {
+          "displayName": "M. Bastareaud",
+          "shirtNo": "12",
+          "position": "12"
+        },
+        {
+          "displayName": "W. Fofana",
+          "shirtNo": "13",
+          "position": "13"
+        },
+        {
+          "displayName": "Y. Huget",
+          "shirtNo": "14",
+          "position": "14"
+        },
+        {
+          "displayName": "S. Spedding",
+          "shirtNo": "15",
+          "position": "15"
+        }
+      ]
+    },
+    {
+      "type": "playerList",
+      "title" : "Remplaçants",
+      "contents": [
+        {
+          "displayName": "M. Bastareaud",
+          "shirtNo": "16"
+        },
+        {
+          "displayName": "M. Bastareaud",
+          "shirtNo": "17"
+        },
+        {
+          "displayName": "M. Bastareaud",
+          "shirtNo": "18"
+        },
+        {
+          "displayName": "M. Bastareaud",
+          "shirtNo": "19"
+        },
+        {
+          "displayName": "M. Bastareaud",
+          "shirtNo": "20"
+        },
+        {
+          "displayName": "M. Bastareaud",
+          "shirtNo": "21"
+        },
+        {
+          "displayName": "M. Bastareaud",
+          "shirtNo": "22"
+        }
+      ]
+    }
+  ],
+  "empty": {
+    "displayName": "Composition non disponible pour le moment"
+  }
+}
