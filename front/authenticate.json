@@ -34,6 +34,7 @@
         "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLive.json",
         "displayTemplate": "sportDetailPage",
         "displayName": "Live",
+        "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json",
         "pullToRefresh": true,
         "BOName": "Live - Page Intermediaire",
         "BOLayoutName": "Live - Page Intermediaire"
