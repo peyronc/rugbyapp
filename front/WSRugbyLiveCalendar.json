@@ -103,7 +103,7 @@
               },
               "onClick": {
                 "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLive.json",
-                "displayTemplate": "sportTemplate",
+                "displayTemplate": "sportDetailPage",
                 "displayName": "Colomiers - Biarritz",
                 "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json"
               }
