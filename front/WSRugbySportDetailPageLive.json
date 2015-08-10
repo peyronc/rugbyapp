@@ -35,6 +35,11 @@
           "displayName": "Plan large",
           "picto": "large",
           "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/d41326194a3c7d1d4273e9a4356d0b46/970.json?params[type]=live&cache=1800000"
+        },
+        {
+          "displayName": "Arbitre",
+          "picto": "arbitre",
+          "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/d41326194a3c7d1d4273e9a4356d0b46/970.json?params[type]=live&cache=1800000"
         }
       ],
       "countdownTitle": "Votre match en direct dans : ",
