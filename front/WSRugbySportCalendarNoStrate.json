@@ -1,0 +1,23 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportCalendar",
+    "displayName": "Poule A",
+    "pullToRefresh": true,
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "s.channel": "F1Mob",
+      "s.prop4": "F1Mob - Calendrier ",
+      "s.prop5": "F1Mob - Calendrier - Coupe du Monde",
+      "s.prop6": "F1Mob - Calendrier Live",
+      "s.prop7": "F1Mob - Calendrier Live",
+      "s.pagename": "F1Mob - Calendrier Live"
+    }
+  },
+  "strates": [
+  ],
+  "empty": {
+    "displayName": "Aucun match disponible en live actuellement"
+  }
+}
