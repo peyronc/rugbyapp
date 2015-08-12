@@ -1,0 +1,31 @@
+{
+  "currentPage": {
+    "displayTemplate": "modalGabaritList",
+    "displayName": "Compositions",
+    "displayType":"navControl",
+    "BOName": "Compositions",
+    "BOLayoutName": "Compositions"
+  },
+  "rubriques": [
+    {
+      "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyComposition.json",
+      "displayTemplate": "composition",
+      "displayName": "France",
+      "BOName": "France",
+      "BOLayoutName": "Composition - France",
+      "highlight": false,
+      "iPhonePosition": "inSegmentedControl",
+      "iPhoneListSegmentedControlName": "France"
+    },
+    {
+      "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyComposition.json",
+      "displayTemplate": "composition",
+      "displayName": "Irlande",
+      "BOName": "Irlande",
+      "BOLayoutName": "Composition - Irlande",
+      "highlight": false,
+      "iPhonePosition": "inSegmentedControl",
+      "iPhoneListSegmentedControlName": "Irlande"
+    }
+  ]
+}

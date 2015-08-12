@@ -124,30 +124,20 @@
           "title": "Compositions",
           "picto": "composition",
           "onClick": {
-            "URLPage": "http://preprod-f1-service.canalplus.com/page/11251d0b586d51c02553702af5926d5b/2855.json?cache=60000",
-            "displayTemplate": "SportComposition",
+            "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyGabaritListComposition.json",
+            "displayTemplate": "modalGabaritList",
             "displayName": "Compositions",
-            "displayType": "tab"
-          }
-        },
-        {
-          "title": "Statistiques",
-          "picto": "stats",
-          "onClick": {
-            "URLPage": "http://preprod-f1-service.canalplus.com/page/11251d0b586d51c02553702af5926d5b/2855.json?cache=60000",
-            "displayTemplate": "SportStats",
-            "displayName": "Statistiques",
-            "displayType": "tab"
+            "displayType": "navControl"
           }
         },
         {
           "title": "Résultats",
           "picto": "results",
           "onClick": {
-            "URLPage": "http://preprod-f1-service.canalplus.com/page/11251d0b586d51c02553702af5926d5b/2855.json?cache=60000",
-            "displayTemplate": "sportResults",
+            "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyGabaritListResults.json",
+            "displayTemplate": "modalGabaritList",
             "displayName": "Résultats",
-            "displayType": "tab"
+            "displayType": "navControl"
           }
         }
       ]

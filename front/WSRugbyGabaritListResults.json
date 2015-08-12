@@ -1,0 +1,31 @@
+{
+  "currentPage": {
+    "displayTemplate": "modalGabaritList",
+    "displayName": "Résultats",
+    "displayType":"navControl",
+    "BOName": "Résultats",
+    "BOLayoutName": "Résultats"
+  },
+  "rubriques": [
+    {
+      "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyResultsSportCalendar.json",
+      "displayTemplate": "sportCalendar",
+      "displayName": "Matchs",
+      "BOName": "Matchs",
+      "BOLayoutName": "Matchs - France - Irlande",
+      "highlight": false,
+      "iPhonePosition": "inSegmentedControl",
+      "iPhoneListSegmentedControlName": "Matchs"
+    },
+    {
+      "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyRanking.json",
+      "displayTemplate": "sportRanking",
+      "displayName": "Classement",
+      "BOName": "Classement",
+      "BOLayoutName": "Classement - France - Irlande",
+      "highlight": false,
+      "iPhonePosition": "inSegmentedControl",
+      "iPhoneListSegmentedControlName": "Classement"
+    }
+  ]
+}
