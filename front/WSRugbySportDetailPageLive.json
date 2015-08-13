@@ -29,17 +29,17 @@
         {
           "displayName": "Match",
           "picto": "match",
-          "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/d41326194a3c7d1d4273e9a4356d0b46/970.json?params[type]=live&cache=1800000"
+          "URLMedias": "http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/index.m3u8"
         },
         {
           "displayName": "Plan large",
           "picto": "large",
-          "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/d41326194a3c7d1d4273e9a4356d0b46/970.json?params[type]=live&cache=1800000"
+          "URLMedias": "http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/index.m3u8"
         },
         {
           "displayName": "Arbitre",
           "picto": "arbitre",
-          "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/d41326194a3c7d1d4273e9a4356d0b46/970.json?params[type]=live&cache=1800000"
+          "URLMedias": "http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/index.m3u8"
         }
       ],
       "countdownTitle": "Votre match en direct dans : ",
@@ -64,7 +64,7 @@
         "contentID": "1280291",
         "idVideoPub": "1280291",
         "videoPathPub": "SPORT/FORMULE_1/GP_AUTRICHE",
-        "URLMedias": "http://f1-service.mycanal.fr/getMediaUrl/9ed129745dbc64c7b5eaa583924f7e5d/1280291.json?pfv={FORMAT}&cache=300000",
+        "URLMedias": "http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/index.m3u8",
         "noPub": false,
         "VoD": {
           "videoURL": "http://us-cplus-aka.canal-plus.com/i/geo3/1506/21/nip_NIP_58874_,200k,400k,800k,1500k,.mp4.csmil/master.m3u8",
