@@ -1,0 +1,128 @@
+[
+  {
+    "Number": 1,
+    "EpgId": 970,
+    "LogoUrl": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/150X112/CHN43FB_970.PNG",
+    "Thematic": "Sport",
+    "Profiles": [
+      {
+        "Access": 4,
+        "CryptType": 13,
+        "Type": "HLS",
+        "Name": "MOSAIQUE",
+        "UseMD": 0,
+        "VideoLinks": [
+          {
+            "Url": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/Rugby_live_feed",
+            "StreamTokenType": "SMARTJOG"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Number": 2,
+    "EpgId": 971,
+    "LogoUrl": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/150X112/CHN43FB_971.PNG",
+    "Thematic": "Sport",
+    "Profiles": [
+      {
+        "Access": 4,
+        "CryptType": 13,
+        "Type": "HLS",
+        "Name": "GP",
+        "UseMD": 0,
+        "VideoLinks": [
+          {
+            "Url": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/Rugby_live_feed",
+            "StreamTokenType": "SMARTJOG"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Number": 3,
+    "EpgId": 972,
+    "LogoUrl": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/150X112/CHN43FB_972.PNG",
+    "Thematic": "Sport",
+    "Profiles": [
+      {
+        "Access": 4,
+        "CryptType": 13,
+        "Type": "HLS",
+        "Name": "ONBOARD",
+        "UseMD": 0,
+        "VideoLinks": [
+          {
+            "Url": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/Rugby_live_feed",
+            "StreamTokenType": "SMARTJOG"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Number": 4,
+    "EpgId": 973,
+    "LogoUrl": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/150X112/CHN43FB_973.PNG",
+    "Thematic": "Sport",
+    "Profiles": [
+      {
+        "Access": 4,
+        "CryptType": 13,
+        "Type": "HLS",
+        "Name": "STANDS",
+        "UseMD": 0,
+        "VideoLinks": [
+          {
+            "Url": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/Rugby_live_feed",
+            "StreamTokenType": "SMARTJOG"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Number": 5,
+    "EpgId": 974,
+    "LogoUrl": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/150X112/CHN43FB_974.PNG",
+    "Thematic": "Sport",
+    "Profiles": [
+      {
+        "Access": 4,
+        "CryptType": 13,
+        "Type": "HLS",
+        "Name": "TRACKING",
+        "UseMD": 0,
+        "VideoLinks": [
+          {
+            "Url": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/Rugby_live_feed",
+            "StreamTokenType": "SMARTJOG"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Number": 6,
+    "EpgId": 975,
+    "LogoUrl": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/150X112/CHN43FB_975.PNG",
+    "Thematic": "Sport",
+    "Profiles": [
+      {
+        "Access": 4,
+        "CryptType": 13,
+        "Type": "HLS",
+        "Name": "CHRONOS",
+        "UseMD": 0,
+        "VideoLinks": [
+          {
+            "Url": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/Rugby_live_feed",
+            "StreamTokenType": "SMARTJOG"
+          }
+        ]
+      }
+    ]
+  }
+]
