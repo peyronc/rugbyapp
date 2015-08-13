@@ -13,7 +13,7 @@
         "UseMD": 0,
         "VideoLinks": [
           {
-            "Url": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/Rugby_live_feed",
+            "Url": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/Rugby_live_feed.json",
             "StreamTokenType": "SMARTJOG"
           }
         ]
@@ -34,7 +34,7 @@
         "UseMD": 0,
         "VideoLinks": [
           {
-            "Url": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/Rugby_live_feed",
+            "Url": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/Rugby_live_feed.json",
             "StreamTokenType": "SMARTJOG"
           }
         ]
@@ -55,7 +55,7 @@
         "UseMD": 0,
         "VideoLinks": [
           {
-            "Url": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/Rugby_live_feed",
+            "Url": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/Rugby_live_feed.json",
             "StreamTokenType": "SMARTJOG"
           }
         ]
@@ -76,7 +76,7 @@
         "UseMD": 0,
         "VideoLinks": [
           {
-            "Url": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/Rugby_live_feed",
+            "Url": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/Rugby_live_feed.json",
             "StreamTokenType": "SMARTJOG"
           }
         ]
@@ -97,7 +97,7 @@
         "UseMD": 0,
         "VideoLinks": [
           {
-            "Url": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/Rugby_live_feed",
+            "Url": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/Rugby_live_feed.json",
             "StreamTokenType": "SMARTJOG"
           }
         ]
@@ -118,7 +118,7 @@
         "UseMD": 0,
         "VideoLinks": [
           {
-            "Url": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/Rugby_live_feed",
+            "Url": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/Rugby_live_feed.json",
             "StreamTokenType": "SMARTJOG"
           }
         ]
