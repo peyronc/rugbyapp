@@ -1,57 +1,57 @@
 [
-{
-"applicationVersion": {
-"updateAppId": "838126294",
-"possibleUpgradeLabel": "Une mise à jour de l'application CANAL F1 est disponible : souhaitez-vous l'installer maintenant ?",
-"possibleUpgradeOSFailureLabel": "Une mise à jour de votre application CANAL F1 est disponible mais le logiciel de votre iPhone n'est pas suffisamment à jour. \nPour en profiter, connectez le à votre ordinateur et mettez le à jour via le logiciel iTunes, ou rendez-vous dans les Réglages (Général/Mise à jour logicielle) de votre iPhone.\nEn cas de besoin, rendez-vous sur l'assistance de myCANAL.",
-"mandatoryUpgradeLabel": "Une mise à jour de l'application CANAL F1 est nécessaire, veuillez la mettre à jour pour continuer à profiter du service.",
-"mandatoryUpgradeOSFailureLabel": "Vous devez mettre à jour le logiciel de votre iPhone pour continuer à utiliser l'application CANAL F1.\nPour ceci, connectez le à votre ordinateur et mettez le à jour via le logiciel iTunes, ou rendez-vous dans les Réglages (Général/Mise à jour logicielle) de votre iPhone.\nEn cas de besoin, rendez-vous sur l'assistance de myCANAL.",
-"urlHelp": "http://www.assistance.canal-plus.com",
-"currentVersion": "1.0.2",
-"currentVersionIOS7": "1.0.2",
-"minimalOS": "6.0",
-"minimalVersion": "1.0.1",
-"minimalVersionIOS7": "1.0.1",
-"minimalOSIOS7": "7.0"
-},
-"authentificationParameters": {
-"extraInfo": true,
-"hardware": false,
-"macros": true,
-"micros": true,
-"paired": true,
-"pdsDevice": false,
-"pdsHybrids": false,
-"pdsNormal": false
-},
-"settings": {
-"smartEmergencyShutdown": false,
-"smartFetch": true
-},
-"authent": {
-"subscriptionMacros": "ALD_CP"
-},
-"servicePlanUrls": {
-"free": "http://webtv-static.canal-plus.com/resources/other/Channels_FREE.json",
-"g5": "http://webtv-static.canal-plus.com/resources/other/Channels_G5.json",
-"g5tnt": "http://webtv-static.canal-plus.com/resources/other/Channels_G5TNT.json",
-"channels_mobile": "http://webtv-static.canal-plus.com/resources/4_7/Channels.json",
-"channels_mobileCOS": "http://webtv-static.canal-plus.com/resources/4_7/Channels.json"
-},
-"rootURLs": {
-"searchURL": "http://f1-service.mycanal.fr/page/{cmsToken}/2430.json?params[searchkey]={searchkey}",
-"programDetail": "http://f1-service.mycanal.fr/page/{cmsToken}/0.json?",
-"ATGPlay": "https://secure-mycanal-player-ios-ws.canal-plus.com/esb/ctx/json/mycanal/iphone/xtc/rest-sec/play",
-"liveTVGlobalChannels": "http://webtv-static.canal-plus.com/metadata/All/globalchannels.json",
-"liveTVGlobalChannelsCOS": "http://webtv-static.canal-plus.com/metadata/All/globalchannels.json",
-"liveTVChannel": "http://webtv-static.canal-plus.com/metadata/Canal/chid{0}.json",
-"liveTVChannelCOS": "http://webtv-static.canal-plus.com/metadata/Canal/chid{0}.json",
-"playerPingSSL": "https://secure-mobiletv.canal-plus.com/JsonPortalProvider/PlayerPing.svc/RestCallMethod",
-"playerPingCOS": "https://secure-mobiletv.canal-plus.com/JsonPortalProvider/PlayerPing.svc/RestCallMethod",
-"liveTV": "https://secure-mobiletv.canal-plus.com/JsonPortalProvider/Service.svc/RestCallMethod",
-"liveTVCOS": "https://secure-mobiletv.canal-plus.com/JsonPortalProvider/Service.svc/RestCallMethod",
-"liveTVSSL": "https://secure-mobiletv.canal-plus.com/JsonPortalProvider/Service.svc/RestCallMethod"
-},
-"compatibilityVersion": "1.0"
-}
+  {
+    "applicationVersion": {
+      "updateAppId": "838126294",
+      "possibleUpgradeLabel": "Une mise à jour de l'application CANAL F1 est disponible : souhaitez-vous l'installer maintenant ?",
+      "possibleUpgradeOSFailureLabel": "Une mise à jour de votre application CANAL F1 est disponible mais le logiciel de votre iPhone n'est pas suffisamment à jour. \nPour en profiter, connectez le à votre ordinateur et mettez le à jour via le logiciel iTunes, ou rendez-vous dans les Réglages (Général/Mise à jour logicielle) de votre iPhone.\nEn cas de besoin, rendez-vous sur l'assistance de myCANAL.",
+      "mandatoryUpgradeLabel": "Une mise à jour de l'application CANAL F1 est nécessaire, veuillez la mettre à jour pour continuer à profiter du service.",
+      "mandatoryUpgradeOSFailureLabel": "Vous devez mettre à jour le logiciel de votre iPhone pour continuer à utiliser l'application CANAL F1.\nPour ceci, connectez le à votre ordinateur et mettez le à jour via le logiciel iTunes, ou rendez-vous dans les Réglages (Général/Mise à jour logicielle) de votre iPhone.\nEn cas de besoin, rendez-vous sur l'assistance de myCANAL.",
+      "urlHelp": "http://www.assistance.canal-plus.com",
+      "currentVersion": "1.0.2",
+      "currentVersionIOS7": "1.0.2",
+      "minimalOS": "6.0",
+      "minimalVersion": "1.0.1",
+      "minimalVersionIOS7": "1.0.1",
+      "minimalOSIOS7": "7.0"
+    },
+    "authentificationParameters": {
+      "extraInfo": true,
+      "hardware": false,
+      "macros": true,
+      "micros": true,
+      "paired": true,
+      "pdsDevice": false,
+      "pdsHybrids": false,
+      "pdsNormal": false
+    },
+    "settings": {
+      "smartEmergencyShutdown": false,
+      "smartFetch": true
+    },
+    "authent": {
+      "subscriptionMacros": "ALD_CP"
+    },
+    "servicePlanUrls": {
+      "free": "http://webtv-static.canal-plus.com/resources/other/Channels_FREE.json",
+      "g5": "http://webtv-static.canal-plus.com/resources/other/Channels_G5.json",
+      "g5tnt": "http://webtv-static.canal-plus.com/resources/other/Channels_G5TNT.json",
+      "channels_mobile": "http://webtv-static.canal-plus.com/resources/4_7/Channels.json",
+      "channels_mobileCOS": "http://webtv-static.canal-plus.com/resources/4_7/Channels.json"
+    },
+    "rootURLs": {
+      "searchURL": "http://f1-service.mycanal.fr/page/{cmsToken}/2430.json?params[searchkey]={searchkey}",
+      "programDetail": "http://f1-service.mycanal.fr/page/{cmsToken}/0.json?",
+      "ATGPlay": "https://secure-mycanal-player-ios-ws.canal-plus.com/esb/ctx/json/mycanal/iphone/xtc/rest-sec/play",
+      "liveTVGlobalChannels": "http://webtv-static.canal-plus.com/metadata/All/globalchannels.json",
+      "liveTVGlobalChannelsCOS": "http://webtv-static.canal-plus.com/metadata/All/globalchannels.json",
+      "liveTVChannel": "http://webtv-static.canal-plus.com/metadata/Canal/chid{0}.json",
+      "liveTVChannelCOS": "http://webtv-static.canal-plus.com/metadata/Canal/chid{0}.json",
+      "playerPingSSL": "https://secure-mobiletv.canal-plus.com/JsonPortalProvider/PlayerPing.svc/RestCallMethod",
+      "playerPingCOS": "https://secure-mobiletv.canal-plus.com/JsonPortalProvider/PlayerPing.svc/RestCallMethod",
+      "liveTV": "https://secure-mobiletv.canal-plus.com/JsonPortalProvider/Service.svc/RestCallMethod",
+      "liveTVCOS": "https://secure-mobiletv.canal-plus.com/JsonPortalProvider/Service.svc/RestCallMethod",
+      "liveTVSSL": "https://secure-mobiletv.canal-plus.com/JsonPortalProvider/Service.svc/RestCallMethod"
+    },
+    "compatibilityVersion": "1.0"
+  }
 ]
