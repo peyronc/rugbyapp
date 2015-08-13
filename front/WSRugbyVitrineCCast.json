@@ -10,10 +10,10 @@
       "type": "button",
       "title": "Revenir au match",
       "onClick": {
-        "URLPage": "http://f1-service.mycanal.fr/page/9ed129745dbc64c7b5eaa583924f7e5d/3202.json?params[type]=live&cache=60000",
+        "URLPage": "https://github.com/florentv/rugbyapp/blob/master/front/WSRugbySportDetailPageLive.json",
         "displayTemplate": "multicamDetailPage",
         "displayName": "France - Australie",
-        "URLVitrine": "http://f1-service.mycanal.fr/highlight/9ed129745dbc64c7b5eaa583924f7e5d/0.json?params[type]=ccast&id=3251&params[episode]=29104&cache=60000&params[pid]=3202"
+        "URLVitrine": "https://github.com/florentv/rugbyapp/blob/master/front/WSRugbyVitrineLive.json"
       }
     },
     {
@@ -32,10 +32,10 @@
           "picto": "try",
           "time": "53'",
           "onClick": {
-            "URLPage": "http://f1-service.mycanal.fr/page/9ed129745dbc64c7b5eaa583924f7e5d/3202.json?params[type]=ccast&id=3251&params[episode]=29104&cache=60000",
+            "URLPage": "https://github.com/florentv/rugbyapp/blob/master/front/WSRugbySportDetailPageCCast.json",
             "displayTemplate": "multicamDetailPage",
             "displayName": "France - Australie",
-            "URLVitrine": "http://f1-service.mycanal.fr/highlight/9ed129745dbc64c7b5eaa583924f7e5d/0.json?params[type]=ccast&id=3251&params[episode]=29104&cache=60000&params[pid]=3202"
+            "URLVitrine": "https://github.com/florentv/rugbyapp/blob/master/front/WSRugbyVitrineCCast.json"
           }
         },
         {
@@ -47,10 +47,10 @@
           "picto": "yellowCard",
           "time": "50'",
           "onClick": {
-            "URLPage": "http://f1-service.mycanal.fr/page/9ed129745dbc64c7b5eaa583924f7e5d/3202.json?params[type]=ccast&id=3251&params[episode]=29103&cache=60000",
+            "URLPage": "https://github.com/florentv/rugbyapp/blob/master/front/WSRugbySportDetailPageCCast.json",
             "displayTemplate": "multicamDetailPage",
             "displayName": "France - Australie",
-            "URLVitrine": "http://f1-service.mycanal.fr/highlight/9ed129745dbc64c7b5eaa583924f7e5d/0.json?params[type]=ccast&id=3251&params[episode]=29103&cache=60000&params[pid]=3202"
+            "URLVitrine": "https://github.com/florentv/rugbyapp/blob/master/front/WSRugbyVitrineCCast.json"
           }
         },
         {
@@ -61,10 +61,10 @@
           "summary": "L'italien est en grande réussite cette après-midi, avec 5 réussites sur 5 tentatives",
           "picto": "conversion",
           "onClick": {
-            "URLPage": "http://f1-service.mycanal.fr/page/9ed129745dbc64c7b5eaa583924f7e5d/3202.json?params[type]=ccast&id=3251&params[episode]=29102&cache=60000",
+            "URLPage": "https://github.com/florentv/rugbyapp/blob/master/front/WSRugbySportDetailPageCCast.json",
             "displayTemplate": "multicamDetailPage",
             "displayName": "France - Australie",
-            "URLVitrine": "http://f1-service.mycanal.fr/highlight/9ed129745dbc64c7b5eaa583924f7e5d/0.json?params[type]=ccast&id=3251&params[episode]=29102&cache=60000&params[pid]=3202"
+            "URLVitrine": "https://github.com/florentv/rugbyapp/blob/master/front/WSRugbyVitrineCCast.json"
           }
         },
         {
@@ -76,10 +76,10 @@
           "summary": "La pénalité de Fred Michalak tape le poteau et atterit entre les barres",
           "time": "47'",
           "onClick": {
-            "URLPage": "http://f1-service.mycanal.fr/page/9ed129745dbc64c7b5eaa583924f7e5d/3202.json?params[type]=ccast&id=3251&params[episode]=29101&cache=60000",
+            "URLPage": "https://github.com/florentv/rugbyapp/blob/master/front/WSRugbySportDetailPageCCast.json",
             "displayTemplate": "multicamDetailPage",
             "displayName": "France - Australie",
-            "URLVitrine": "http://f1-service.mycanal.fr/highlight/9ed129745dbc64c7b5eaa583924f7e5d/0.json?params[type]=ccast&id=3251&params[episode]=29101&cache=60000&params[pid]=3202"
+            "URLVitrine": "https://github.com/florentv/rugbyapp/blob/master/front/WSRugbyVitrineCCast.json"
           }
         },
         {
@@ -89,10 +89,10 @@
           "title": "Percée de Yoahn Huget",
           "summary": "Incroyable percée de Yohan Huget qui est rattrapé à cinq mètres de la ligne d'en-but.",
           "onClick": {
-            "URLPage": "http://f1-service.mycanal.fr/page/9ed129745dbc64c7b5eaa583924f7e5d/3202.json?params[type]=ccast&id=3251&params[episode]=29100&cache=60000",
+            "URLPage": "https://github.com/florentv/rugbyapp/blob/master/front/WSRugbySportDetailPageCCast.json",
             "displayTemplate": "multicamDetailPage",
             "displayName": "VICTOIRE VETTEL",
-            "URLVitrine": "http://f1-service.mycanal.fr/highlight/9ed129745dbc64c7b5eaa583924f7e5d/0.json?params[type]=ccast&id=3251&params[episode]=29100&cache=60000&params[pid]=3202"
+            "URLVitrine": "https://github.com/florentv/rugbyapp/blob/master/front/WSRugbyVitrineCCast.json"
           }
         }
       ]
