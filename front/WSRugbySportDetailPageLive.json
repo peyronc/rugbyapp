@@ -29,17 +29,17 @@
         {
           "displayName": "Match",
           "picto": "match",
-          "URLMedias": "http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/index.m3u8"
+          "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/d41326194a3c7d1d4273e9a4356d0b46/970.json?params[type]=live&cache=1800000"
         },
         {
           "displayName": "Plan large",
           "picto": "large",
-          "URLMedias": "http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/index.m3u8"
+          "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/d41326194a3c7d1d4273e9a4356d0b46/970.json?params[type]=live&cache=1800000"
         },
         {
           "displayName": "Arbitre",
           "picto": "arbitre",
-          "URLMedias": "http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/index.m3u8"
+          "URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/d41326194a3c7d1d4273e9a4356d0b46/970.json?params[type]=live&cache=1800000"
         }
       ],
       "countdownTitle": "Votre match en direct dans : ",
