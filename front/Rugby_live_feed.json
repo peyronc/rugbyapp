@@ -1,9 +1,9 @@
 {
   "primary": {
-    "src": "http://service.canal-plus.com/video/rest/getVideos/itele/203105?format=json"
+    "src": "http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/index.m3u8"
   },
   "backup": {
-    "src": "http://service.canal-plus.com/video/rest/getVideos/itele/203105?format=json"
+    "src": "http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/index.m3u8"
   },
   "failover": {
     "src": "offchanel.jpg",
