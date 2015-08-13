@@ -35,8 +35,8 @@
       "free": "http://webtv-static.canal-plus.com/resources/other/Channels_FREE.json",
       "g5": "http://webtv-static.canal-plus.com/resources/other/Channels_G5.json",
       "g5tnt": "http://webtv-static.canal-plus.com/resources/other/Channels_G5TNT.json",
-      "channels_mobile": "http://webtv-static.canal-plus.com/resources/4_7/Channels.json",
-      "channels_mobileCOS": "http://webtv-static.canal-plus.com/resources/4_7/Channels.json"
+      "channels_mobile": "https://github.com/florentv/rugbyapp/blob/master/front/channels",
+      "channels_mobileCOS": "https://github.com/florentv/rugbyapp/blob/master/front/channels"
     },
     "rootURLs": {
       "searchURL": "http://f1-service.mycanal.fr/page/{cmsToken}/2430.json?params[searchkey]={searchkey}",
