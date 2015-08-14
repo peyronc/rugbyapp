@@ -21,6 +21,7 @@
       "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportCalendar.json",
       "displayTemplate": "sportCalendar",
       "displayName": "Poule B",
+      "default":true,
       "BOName": "Poule B",
       "BOLayoutName": "Calendrier - Poule B",
       "highlight": false,
