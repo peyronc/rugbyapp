@@ -1,7 +1,6 @@
 {
   "currentPage": {
     "displayTemplate": "vitrine",
-    "displayName": "Infos",
     "autorefresh": 30000,
     "pullToRefresh": true
   },
