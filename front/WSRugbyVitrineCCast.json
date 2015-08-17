@@ -9,9 +9,10 @@
     {
       "type": "button",
       "title": "Revenir au match",
+      "picto": "backToLiveArrow"
       "onClick": {
         "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLive.json",
-        "displayTemplate": "multicamDetailPage",
+        "displayTemplate": "sportDetailPage",
         "displayName": "France - Australie",
         "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json"
       }
