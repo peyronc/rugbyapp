@@ -9,7 +9,7 @@
     {
       "type": "button",
       "title": "Revenir au match",
-      "picto": "backToLiveArrow"
+      "picto": "backToLiveArrow",
       "onClick": {
         "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLive.json",
         "displayTemplate": "sportDetailPage",
