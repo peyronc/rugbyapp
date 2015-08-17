@@ -7,8 +7,7 @@
   "strates": [
     {
       "type": "sportVitrine",
-      "sport": "rugby",
-      "status": "live",
+      "status": "ongoing",
       "displayStatus": "En cours",
       "eventStartDate": 1414267200,
       "displayTime": "20h00",
