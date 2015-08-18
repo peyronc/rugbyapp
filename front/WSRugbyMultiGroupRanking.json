@@ -43,7 +43,7 @@
       ],
       "contents": [
         {
-          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/hamilton.png",
+          "URLImage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/allBlacks.png",
           "ranking": "1er",
           "title": "Angleterre",
           "thirdTitle": "20",
@@ -60,7 +60,7 @@
           ]
         },
         {
-          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/rosberg.png",
+          "URLImage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/allBlacks.png",
           "ranking": "2e",
           "title": "Pays de Galles",
           "thirdTitle": "11",
@@ -77,7 +77,7 @@
           ]
         },
         {
-          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/vettel.png",
+          "URLImage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/allBlacks.png",
           "ranking": "3e",
           "title": "Australie",
           "thirdTitle": "9",
@@ -94,7 +94,7 @@
           ]
         },
         {
-          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/raikkonen.png",
+          "URLImage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/allBlacks.png",
           "ranking": "4e",
           "title": "Fidji",
           "thirdTitle": "6",
@@ -149,7 +149,7 @@
       ],
       "contents": [
         {
-          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/bottas.png",
+          "URLImage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/allBlacks.png",
           "ranking": "1er",
           "title": "Afrique du Sud",
           "thirdTitle": "20",
@@ -166,7 +166,7 @@
           ]
         },
         {
-          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/massa.png",
+          "URLImage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/allBlacks.png",
           "ranking": "2e",
           "title": "Écosse",
           "thirdTitle": "11",
@@ -183,7 +183,7 @@
           ]
         },
         {
-          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/ricciardo.png",
+          "URLImage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/allBlacks.png",
           "ranking": "3e",
           "title": "Japon",
           "thirdTitle": "9",
@@ -200,7 +200,7 @@
           ]
         },
         {
-          "URLImage": "http://static2.canalplus.fr/appli-f1/statPlus/2015/driver/kvyat.png",
+          "URLImage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/allBlacks.png",
           "ranking": "4e",
           "title": "Samoa",
           "thirdTitle": "6",
