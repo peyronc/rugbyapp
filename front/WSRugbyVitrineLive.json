@@ -15,7 +15,7 @@
       "tvChannelLogo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
       "homeTeam": {
         "displayName": "France",
-        "logo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+        "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png",
         "score": 23,
         "winner": true,
         "stats": [
@@ -83,7 +83,7 @@
       },
       "awayTeam": {
         "DisplayName": "Italie",
-        "Logo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+        "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png",
         "score": 15,
         "stats": [
           {
