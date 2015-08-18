@@ -28,6 +28,18 @@
       }
     },
     {
+      "displayName": "Live CountD",
+      "picto": "livesport",
+      "onClick": {
+        "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLiveCountDown.json",
+        "displayTemplate": "sportCalendar",
+        "displayName": "Live",
+        "pullToRefresh": true,
+        "BOName": "Live - Page Intermediaire",
+        "BOLayoutName": "Live - Page Intermediaire"
+      }
+    },
+    {
       "displayName": "CCast",
       "picto": "livesport",
       "onClick": {
