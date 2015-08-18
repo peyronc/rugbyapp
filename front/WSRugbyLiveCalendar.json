@@ -34,13 +34,13 @@
               "tvChannelLogo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
               "homeTeam": {
                 "displayName": "Nouvelle-Zelande",
-                "logo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png",
                 "score": 23,
                 "winner": true
               },
               "awayTeam": {
                 "displayName": "Fidji",
-                "logo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/allBlacks.png",
                 "score": 3
               }
             }
@@ -66,12 +66,12 @@
               "tvChannelLogo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
               "homeTeam": {
                 "displayName": "Aurillac",
-                "logo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/allBlacks.png",
                 "score": 6
               },
               "awayTeam": {
                 "displayName": "Perpignan",
-                "logo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png",
                 "score": 15,
                 "winner": true
               },
@@ -92,13 +92,13 @@
               "tvChannelLogo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
               "homeTeam": {
                 "displayName": "Colomiers",
-                "logo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png",
                 "score": 36,
                 "winner": true
               },
               "awayTeam": {
                 "displayName": "Biarritz",
-                "logo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/allBlacks.png",
                 "score": 12
               },
               "onClick": {
@@ -131,12 +131,12 @@
               "tvChannelLogo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
               "homeTeam": {
                 "displayName": "France",
-                "logo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/allBlacks.png",
                 "score": 15
               },
               "awayTeam": {
                 "displayName": "Italie",
-                "logo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png",
                 "score": 15
               },
               "onClick": {
@@ -168,11 +168,11 @@
               "tvChannelLogo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
               "homeTeam": {
                 "displayName": "Angleterre",
-                "logo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png"
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png"
               },
               "awayTeam": {
                 "displayName": "Japon",
-                "logo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png"
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/allBlacks.png"
               }
             }
           ]
