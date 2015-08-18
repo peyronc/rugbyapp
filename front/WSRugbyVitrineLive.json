@@ -82,7 +82,7 @@
         ]
       },
       "awayTeam": {
-        "DisplayName": "Italie",
+        "displayName": "Italie",
         "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png",
         "score": 15,
         "stats": [
