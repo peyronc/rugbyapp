@@ -31,7 +31,7 @@
       "displayName": "Live CountD",
       "picto": "livesport",
       "onClick": {
-        "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageCCast.json",
+        "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLiveCountDown.json",
         "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineCCast.json",
         "displayTemplate": "sportDetailPage",
         "displayName": "France - Australie",
