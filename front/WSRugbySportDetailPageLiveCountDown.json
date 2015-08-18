@@ -6,7 +6,7 @@
     "BOName": "Live - France - Australie",
     "BOLayoutName": "Live - France - Australie",
     "autorefresh": 30000,
-    "startTime": 1439922600,
+    "startTime": 1426190520,
     "endTime": 1451593020
   },
   "tracking": {
@@ -23,7 +23,7 @@
       "event": "rugby",
       "urlImage": "http://rugby-service...",
       "noLiveTitle": "Pas de diffusion live pour ce match",
-      "startTimeLive": 1426190520,
+      "startTimeLive": 1439922600,
       "endTimeLive": 1451592480,
       "multicam": [
         {
