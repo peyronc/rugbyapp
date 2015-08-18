@@ -1,0 +1,20 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportCalendar",
+    "displayName": "Live (sportCalendar)",
+    "pullToRefresh": true,
+    "BOName": "sportCalendar Live"
+  },
+  "tracking": {
+    "omniture": {
+      "s.channel": "MyCMob",
+      "s.prop4": "MyCMob - TEST - Rugby App",
+      "s.prop5": "MyCMob - TEST - Rugby App - sportCalendar Live",
+      "s.pagename": "MyCMob - TEST - Rugby App - sportCalendar Live"
+    }
+  },
+  "strates": [],
+  "empty": {
+    "displayName": "Aucun match disponible"
+  }
+}
