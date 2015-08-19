@@ -17,7 +17,7 @@
     },
     {
       "displayName": "Calendar",
-      "picto": "livesport",
+      "picto": "Livesport",
       "onClick": {
         "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyLiveCalendar.json",
         "displayTemplate": "sportCalendar",
@@ -29,7 +29,7 @@
     },
     {
       "displayName": "Live CountD",
-      "picto": "livesport",
+      "picto": "Livesport",
       "onClick": {
         "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLiveCountDown.json",
         "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineCCast.json",
@@ -42,7 +42,7 @@
     },
     {
       "displayName": "CCast",
-      "picto": "livesport",
+      "picto": "Livesport",
       "onClick": {
         "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageCCast.json",
         "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineCCast.json",
@@ -55,7 +55,7 @@
     },
     {
       "displayName": "Live test",
-      "picto": "livesport",
+      "picto": "Livesport",
       "children": [
         {
           "displayName": "MultiFeed",
@@ -72,7 +72,7 @@
         },
         {
           "displayName": "MonoFeed",
-          "picto": "livesport",
+          "picto": "Livesport",
           "onClick": {
             "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLiveMonoFeed.json",
             "displayTemplate": "sportDetailPage",
@@ -85,7 +85,7 @@
         },
         {
           "displayName": "SubCam",
-          "picto": "livesport",
+          "picto": "Livesport",
           "onClick": {
             "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLiveSubCam.json",
             "displayTemplate": "sportDetailPage",
