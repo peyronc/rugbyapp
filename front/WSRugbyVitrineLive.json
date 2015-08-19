@@ -142,7 +142,6 @@
     },
     {
       "type": "timeline",
-      "title": "Temps forts",
       "nbContentPortrait": 20,
       "nbContentLandscape": 20,
       "openDirectlyInCurrentPage": true,
