@@ -53,6 +53,19 @@
         "BOLayoutName": "Live - Page Intermediaire"
       }
     },
+        {
+      "displayName": "CCast 2",
+      "picto": "LiveSport",
+      "onClick": {
+        "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageCCast.json",
+        "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineCCast_2.json",
+        "displayTemplate": "sportDetailPage",
+        "displayName": "France - Australie",
+        "pullToRefresh": true,
+        "BOName": "Live - Page Intermediaire",
+        "BOLayoutName": "Live - Page Intermediaire"
+      }
+    },
     {
       "displayName": "Live test",
       "picto": "LiveSport",
