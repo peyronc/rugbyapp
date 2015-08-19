@@ -17,7 +17,7 @@
     },
     {
       "displayName": "Calendar",
-      "picto": "Livesport",
+      "picto": "LiveSport",
       "onClick": {
         "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyLiveCalendar.json",
         "displayTemplate": "sportCalendar",
@@ -29,7 +29,7 @@
     },
     {
       "displayName": "Live CountD",
-      "picto": "Livesport",
+      "picto": "LiveSport",
       "onClick": {
         "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLiveCountDown.json",
         "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineCCast.json",
@@ -42,7 +42,7 @@
     },
     {
       "displayName": "CCast",
-      "picto": "Livesport",
+      "picto": "LiveSport",
       "onClick": {
         "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageCCast.json",
         "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineCCast.json",
@@ -55,11 +55,11 @@
     },
     {
       "displayName": "Live test",
-      "picto": "Livesport",
+      "picto": "LiveSport",
       "children": [
         {
           "displayName": "MultiFeed",
-          "picto": "livesport",
+          "picto": "liveSport",
           "onClick": {
             "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLive.json",
             "displayTemplate": "sportDetailPage",
@@ -72,7 +72,7 @@
         },
         {
           "displayName": "MonoFeed",
-          "picto": "Livesport",
+          "picto": "LiveSport",
           "onClick": {
             "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLiveMonoFeed.json",
             "displayTemplate": "sportDetailPage",
@@ -85,7 +85,7 @@
         },
         {
           "displayName": "SubCam",
-          "picto": "Livesport",
+          "picto": "LiveSport",
           "onClick": {
             "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLiveSubCam.json",
             "displayTemplate": "sportDetailPage",
