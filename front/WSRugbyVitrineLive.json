@@ -142,8 +142,8 @@
     },
     {
       "type": "timeline",
-      "nbContentPortrait": 20,
-      "nbContentLandscape": 20,
+      "nbContentPortrait": 0,
+      "nbContentLandscape": 0,
       "openDirectlyInCurrentPage": true,
       "contents": [
         {
