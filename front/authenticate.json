@@ -16,7 +16,7 @@
       }
     },
     {
-      "displayName": "Live",
+      "displayName": "Calendar",
       "picto": "livesport",
       "onClick": {
         "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyLiveCalendar.json",
