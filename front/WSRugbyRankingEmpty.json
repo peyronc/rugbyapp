@@ -1,0 +1,21 @@
+
+{
+    "currentPage": {
+        "displayTemplate": "sportRanking",
+        "displayName": "Classement Top 14",
+        "BOName": "Classement Top 14",
+        "autorefresh": 30000
+    },
+    "tracking": {
+        "omniture": {
+            "s.channel": "MyCMob",
+            "s.prop4": "MyCMob - TEST - Rugby App",
+            "s.prop5": "MyCMob - TEST - Rugby App - Classement Top 14",
+            "s.pagename": "MyCMob - TEST - Rugby App - Classement Top 14"
+        }
+    },
+    "strates": [],
+    "empty": {
+        "displayName": "Aucun classement disponible"
+    }
+}
