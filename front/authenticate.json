@@ -4,7 +4,7 @@
   "arborescence": [
     {
       "displayName": "Accueil",
-      "picto": "home",
+      "picto": "Home",
       "onClick": {
         "URLPage": "http://f1-service.mycanal.fr/page/9ed129745dbc64c7b5eaa583924f7e5d/2425.json?cache=60000",
         "displayTemplate": "landing",
@@ -100,7 +100,7 @@
     },
     {
       "displayName": "Coupe du monde",
-      "picto": "cdm",
+      "picto": "Cdm",
       "onClick": {
         "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyGabaritListCDM.json",
         "displayTemplate": "gabaritList",
@@ -110,7 +110,7 @@
     },
     {
       "displayName": "Top 14",
-      "picto": "top14",
+      "picto": "Top14",
       "onClick": {
         "URLPage": "http://f1-service.mycanal.fr/page/9ed129745dbc64c7b5eaa583924f7e5d/2671.json?cache=300000",
         "displayTemplate": "gabaritList",
@@ -120,7 +120,7 @@
     },
     {
       "displayName": "Pro D2",
-      "picto": "prod2",
+      "picto": "Prod2",
       "onClick": {
         "URLPage": "http://f1-service.mycanal.fr/page/9ed129745dbc64c7b5eaa583924f7e5d/2671.json?cache=300000",
         "displayTemplate": "gabaritList",
@@ -130,7 +130,7 @@
     },
     {
       "displayName": "Emissions",
-      "picto": "emission",
+      "picto": "Emission",
       "onClick": {
         "URLPage": "http://f1-service.mycanal.fr/page/9ed129745dbc64c7b5eaa583924f7e5d/2548.json?cache=300000",
         "displayTemplate": "gabaritList",
