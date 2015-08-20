@@ -33,7 +33,7 @@
       "onClick": {
         "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLiveCountDown.json",
         "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineCCast.json",
-        "displayTemplate": "sportDetailPage",
+        "displayTemplate": "sportDetailPageLive",
         "displayName": "France - Australie",
         "pullToRefresh": true,
         "BOName": "Live - Page Intermediaire",
@@ -46,7 +46,7 @@
       "onClick": {
         "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageCCast.json",
         "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineCCast.json",
-        "displayTemplate": "sportDetailPage",
+        "displayTemplate": "sportDetailPageCcast",
         "displayName": "France - Australie",
         "pullToRefresh": true,
         "BOName": "Live - Page Intermediaire",
@@ -59,7 +59,7 @@
       "onClick": {
         "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageCCast.json",
         "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineCCast_2.json",
-        "displayTemplate": "sportDetailPage",
+        "displayTemplate": "sportDetailPageCcast",
         "displayName": "France - Australie",
         "pullToRefresh": true,
         "BOName": "Live - Page Intermediaire",
@@ -75,7 +75,7 @@
           "picto": "liveSport",
           "onClick": {
             "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLive.json",
-            "displayTemplate": "sportDetailPage",
+            "displayTemplate": "sportDetailPageLive",
             "displayName": "Live",
             "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json",
             "pullToRefresh": true,
@@ -88,7 +88,7 @@
           "picto": "LiveSport",
           "onClick": {
             "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLiveMonoFeed.json",
-            "displayTemplate": "sportDetailPage",
+            "displayTemplate": "sportDetailPageLive",
             "displayName": "Live",
             "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json",
             "pullToRefresh": true,
@@ -101,7 +101,7 @@
           "picto": "LiveSport",
           "onClick": {
             "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLiveSubCam.json",
-            "displayTemplate": "sportDetailPage",
+            "displayTemplate": "sportDetailPageLive",
             "displayName": "Live",
             "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json",
             "pullToRefresh": true,
