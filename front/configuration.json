@@ -163,6 +163,11 @@
     "pairingDiscoveryErrorV6HelpUrl": "http://service.mycanal.fr/page/0611e83a6a9be90f2487345402ede572/1624.html",
     "pairingDiscoveryErrorG5HelpUrl": "http://service.mycanal.fr/page/0611e83a6a9be90f2487345402ede572/1624.html"
   },
+  "push": {
+  "AWSAppId": "app/APNS_SANDBOX/F1_ios_preprod",
+  "AWSAccountArn": "arn:aws:sns:eu-west-1:167012524447:",
+  "AWSPoolId": "eu-west-1:6c515d30-b1f9-470d-9072-ddafe0b5cbcb"
+  },
   "sharing": {
     "enableSharingActivities": true,
     "googleAPIClientId": "402218264223-n314i8uv0k6gr4bg4433s2864k9sgunk.apps.googleusercontent.com"
