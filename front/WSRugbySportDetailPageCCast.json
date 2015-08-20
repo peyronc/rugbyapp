@@ -1,6 +1,6 @@
 {
   "currentPage": {
-    "displayTemplate": "sportDetailPage",
+    "displayTemplate": "sportDetailPageCcast",
     "displayName": "France - Australie",
     "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineCCast.json"
   },
