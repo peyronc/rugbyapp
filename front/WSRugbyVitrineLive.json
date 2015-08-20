@@ -120,7 +120,7 @@
       "buttonstype": [
         {
           "title": "Compositions",
-          "picto": "composition",
+          "picto": "Composition",
           "onClick": {
             "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyGabaritListComposition.json",
             "displayTemplate": "modalGabaritList",
@@ -130,7 +130,7 @@
         },
         {
           "title": "Résultats",
-          "picto": "results",
+          "picto": "Results",
           "onClick": {
             "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyGabaritListResults.json",
             "displayTemplate": "modalGabaritList",
@@ -154,7 +154,7 @@
           "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/366/216/232/366216232A148DDA37877FF4CFD6108B_212x159.png",
           "title": "Essai de T. Dusautoir",
           "summary": "Après un intense pilonnage, Plisson monte une chandelle dans l'en-but. Bergamasco et...",
-          "picto": "try",
+          "picto": "Try",
           "time": "53'",
           "onClick": {
             "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageCCast.json",
@@ -169,7 +169,7 @@
           "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/166/0C4/95D/1660C495D4E463C287A7A079966436CD_212x159.png",
           "title": "Carton jaune pour Papé",
           "summary": "P.Papé sanctionné d'un carton jaune pour un mauvais geste.",
-          "picto": "yellowCard",
+          "picto": "YellowCard",
           "time": "50'",
           "onClick": {
             "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageCCast.json",
@@ -184,7 +184,7 @@
           "URLImage": "http://canal.ireland.alpha.cdn.c-cast.tv/rugby/thumbs/494/DC0/4C1/494DC04C13AC99008DA5AC2FDBC2A477_212x159.png",
           "title": "Pénalité de Mirco Bergamasco",
           "summary": "L'italien est en grande réussite cette après-midi, avec 5 réussites sur 5 tentatives",
-          "picto": "conversion",
+          "picto": "Conversion",
           "onClick": {
             "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageCCast.json",
             "displayTemplate": "sportDetailPageCcast",
