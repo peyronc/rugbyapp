@@ -7,11 +7,11 @@
       "mandatoryUpgradeLabel": "Une mise à jour de l'application CANAL F1 est nécessaire, veuillez la mettre à jour pour continuer à profiter du service.",
       "mandatoryUpgradeOSFailureLabel": "Vous devez mettre à jour le logiciel de votre iPhone pour continuer à utiliser l'application CANAL F1.\nPour ceci, connectez le à votre ordinateur et mettez le à jour via le logiciel iTunes, ou rendez-vous dans les Réglages (Général/Mise à jour logicielle) de votre iPhone.\nEn cas de besoin, rendez-vous sur l'assistance de myCANAL.",
       "urlHelp": "http://www.assistance.canal-plus.com",
-      "currentVersion": "1.0.2",
-      "currentVersionIOS7": "1.0.2",
+      "currentVersion": "0.0.0",
+      "currentVersionIOS7": "0.0.0",
       "minimalOS": "6.0",
-      "minimalVersion": "1.0.1",
-      "minimalVersionIOS7": "1.0.1",
+      "minimalVersion": "0.0.0",
+      "minimalVersionIOS7": "0.0.0",
       "minimalOSIOS7": "7.0"
     },
     "authentificationParameters": {
