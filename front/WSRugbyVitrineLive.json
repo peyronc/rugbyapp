@@ -84,7 +84,6 @@
         "stats": [
           {
             "type": "try",
-            "displayName": "Essais",
             "value": 2,
             "events": [
               {
@@ -99,7 +98,6 @@
           },
           {
             "type": "penalty",
-            "displayName": "Pénalité",
             "value": 1,
             "events": [
               {
