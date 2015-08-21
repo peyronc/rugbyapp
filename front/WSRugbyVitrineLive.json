@@ -17,7 +17,7 @@
         "displayName": "France",
         "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png",
         "score": 23,
-        "winner": true,
+        "winner": true
           },
           {
             "type": "conversion",
