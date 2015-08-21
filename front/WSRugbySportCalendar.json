@@ -72,7 +72,7 @@
               "eventStartDate": 1411246800,
               "displayTime": "15h00",
               "tvChannel": "CANAL+",
-              "tvChannelLogo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+              "tvChannelLogo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/canal-logo.jpg",
               "homeTeam": {
                 "displayName": "Australie",
                 "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/NZ-rugby.png",
