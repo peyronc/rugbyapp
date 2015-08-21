@@ -19,32 +19,9 @@
         "score": 23,
         "winner": true,
         "stats": [
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-=======
->>>>>>> Stashed changes
-          {
-           "type": "try",
-            "value": 3,
-           "events": [
-              {
-                "time": "45'",
-                "playerName": "D.Dominguez"
-              },
-              {
-                "time": "50'",
-                "playerName": "M. Bergamasco"
-              },
-              {
-                "time": "81'",
-                "playerName": "F. Michalak"
-              }
-            ]
-          },
->>>>>>> origin/master
           {
             "type": "conversion",
+            "displayName": "Transformations",
             "value": 2,
             "events": [
               {
@@ -59,6 +36,7 @@
           },
           {
             "type": "penalty",
+            "displayName": "Pénalités",
             "value": 2,
             "events": [
               {
@@ -73,6 +51,7 @@
           },
           {
             "type": "drop",
+            "displayName": "Drop",
             "value": 1,
             "events": [
               {
@@ -90,6 +69,7 @@
         "stats": [
           {
             "type": "try",
+            "displayName": "Essais",
             "value": 2,
             "events": [
               {
@@ -104,6 +84,7 @@
           },
           {
             "type": "penalty",
+            "displayName": "Pénalité",
             "value": 1,
             "events": [
               {
@@ -130,13 +111,7 @@
         },
         {
           "title": "Résultats",
-          "picto": "Results",
-          "onClick": {
-            "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyGabaritListResults.json",
-            "displayTemplate": "modalGabaritList",
-            "displayName": "Résultats",
-            "displayType": "navControl"
-          }
+          "picto": "Results"
         }
       ]
     },
