@@ -27,7 +27,7 @@
               "status": "finished",
               "displayStatus": "Terminé",
               "eventStartDate": 1411063200,
-              "displayTime" : "15h00",
+              "displayTime": "15h00",
               "homeTeam": {
                 "displayName": "Angletrre",
                 "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png",
@@ -51,7 +51,7 @@
               "status": "ongoing",
               "displayStatus": "En cours",
               "eventStartDate": 1411246800,
-              "displayTime" : "08h00",
+              "displayTime": "08h00",
               "homeTeam": {
                 "displayName": "Pays de Galles",
                 "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png",
@@ -70,7 +70,7 @@
               "status": "ongoing",
               "displayStatus": "En cours",
               "eventStartDate": 1411246800,
-              "displayTime" : "15h00",
+              "displayTime": "15h00",
               "tvChannel": "CANAL+",
               "tvChannelLogo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
               "homeTeam": {
