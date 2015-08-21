@@ -17,11 +17,28 @@
         "displayName": "France",
         "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png",
         "score": 23,
-        "winner": true
+        "winner": true,
+        "stats": [
+-          {
+-            "type": "try",
+-            "value": 3,
+-            "events": [
+-              {
+-                "time": "45'",
+-                "playerName": "D.Dominguez"
+-              },
+-              {
+-                "time": "50'",
+-                "playerName": "M. Bergamasco"
+-              },
+-              {
+-                "time": "81'",
+-                "playerName": "F. Michalak"
+-              }
+-            ]
           },
           {
             "type": "conversion",
-            "displayName": "Transformations",
             "value": 2,
             "events": [
               {
@@ -36,7 +53,6 @@
           },
           {
             "type": "penalty",
-            "displayName": "Pénalités",
             "value": 2,
             "events": [
               {
@@ -51,7 +67,6 @@
           },
           {
             "type": "drop",
-            "displayName": "Drop",
             "value": 1,
             "events": [
               {
