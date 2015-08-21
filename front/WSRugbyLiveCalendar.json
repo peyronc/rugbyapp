@@ -40,7 +40,7 @@
               },
               "awayTeam": {
                 "displayName": "Fidji",
-                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/allBlacks.png",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/SF-rugby.png",
                 "score": 3
               }
             }
@@ -66,7 +66,7 @@
               "tvChannelLogo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
               "homeTeam": {
                 "displayName": "Aurillac",
-                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/allBlacks.png",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/SF-rugby.png",
                 "score": 6
               },
               "awayTeam": {
@@ -98,7 +98,7 @@
               },
               "awayTeam": {
                 "displayName": "Biarritz",
-                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/allBlacks.png",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/SF-rugby.png",
                 "score": 12
               },
               "onClick": {
@@ -131,7 +131,7 @@
               "tvChannelLogo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
               "homeTeam": {
                 "displayName": "France",
-                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/allBlacks.png",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/SF-rugby.png",
                 "score": 15
               },
               "awayTeam": {
@@ -172,7 +172,7 @@
               },
               "awayTeam": {
                 "displayName": "Japon",
-                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/allBlacks.png"
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/SF-rugby.png"
               }
             }
           ]
