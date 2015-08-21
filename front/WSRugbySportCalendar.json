@@ -36,7 +36,7 @@
               },
               "awayTeam": {
                 "displayName": "Fidji",
-                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/NZ-rugby.png",
                 "score": 33
               }
             }
@@ -59,7 +59,7 @@
               },
               "awayTeam": {
                 "displayName": "Uruguay",
-                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/NZ-rugby.png",
                 "score": 26,
                 "winner": true
               }
@@ -75,7 +75,7 @@
               "tvChannelLogo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
               "homeTeam": {
                 "displayName": "Australie",
-                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/NZ-rugby.png",
                 "score": 47,
                 "winner": true
               },
