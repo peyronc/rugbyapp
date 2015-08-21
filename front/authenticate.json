@@ -3,6 +3,17 @@
   "home": [],
   "arborescence": [
     {
+      "displayName": "Accès abonné",
+      "picto": "Key",
+      "onClick": {
+        "displayTemplate": "sectionOverview",
+        "section": "SubscriberAccess",
+        "displayName": "Accès Abonné",
+        "BOName": "Acces abonne",
+        "BOLayoutName": "Acces Abonne - Se connecter"
+      }
+    },
+    {
       "displayName": "Accueil",
       "picto": "Home",
       "onClick": {
@@ -53,7 +64,7 @@
         "BOLayoutName": "Live - Page Intermediaire"
       }
     },
-        {
+    {
       "displayName": "CCast 2",
       "picto": "LiveSport",
       "onClick": {
