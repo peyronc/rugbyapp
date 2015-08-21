@@ -19,23 +19,23 @@
         "score": 23,
         "winner": true,
         "stats": [
--          {
--            "type": "try",
--            "value": 3,
--            "events": [
--              {
--                "time": "45'",
--                "playerName": "D.Dominguez"
--              },
--              {
--                "time": "50'",
--                "playerName": "M. Bergamasco"
--              },
--              {
--                "time": "81'",
--                "playerName": "F. Michalak"
--              }
--            ]
+          {
+           "type": "try",
+            "value": 3,
+           "events": [
+              {
+                "time": "45'",
+                "playerName": "D.Dominguez"
+              },
+              {
+                "time": "50'",
+                "playerName": "M. Bergamasco"
+              },
+              {
+                "time": "81'",
+                "playerName": "F. Michalak"
+              }
+            ]
           },
           {
             "type": "conversion",
