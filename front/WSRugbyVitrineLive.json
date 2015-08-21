@@ -19,11 +19,6 @@
         "score": 23,
         "winner": true,
         "stats": [
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-=======
->>>>>>> Stashed changes
           {
            "type": "try",
             "value": 3,
@@ -42,7 +37,6 @@
               }
             ]
           },
->>>>>>> origin/master
           {
             "type": "conversion",
             "value": 2,
