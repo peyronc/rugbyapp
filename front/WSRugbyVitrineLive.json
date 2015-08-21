@@ -18,25 +18,6 @@
         "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png",
         "score": 23,
         "winner": true,
-        "stats": [
-          {
-            "type": "try",
-            "displayName": "Essais",
-            "value": 3,
-            "events": [
-              {
-                "time": "45'",
-                "playerName": "D.Dominguez"
-              },
-              {
-                "time": "50'",
-                "playerName": "M. Bergamasco"
-              },
-              {
-                "time": "81'",
-                "playerName": "F. Michalak"
-              }
-            ]
           },
           {
             "type": "conversion",
