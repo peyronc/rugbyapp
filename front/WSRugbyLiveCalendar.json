@@ -22,7 +22,7 @@
       "groups": [
         {
           "title": "Coupe du Monde - Poule C",
-          "displayLogo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+           "displayLogo": "",
           "events": [
             {
               "contentType": "match",
@@ -31,7 +31,7 @@
               "eventStartDate": 1412262000,
               "displayTime": "16h00",
               "tvChannel": "CANAL+",
-              "tvChannelLogo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+              "tvChannelLogo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/canal-logo.jpg",
               "homeTeam": {
                 "displayName": "Nouvelle-Zelande",
                 "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png",
@@ -54,7 +54,7 @@
       "groups": [
         {
           "title": "Pro D2 - 33e journée",
-          "displayLogo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+           "displayLogo": "",
           "events": [
             {
               "contentType": "match",
@@ -63,7 +63,7 @@
               "eventStartDate": 1413471600,
               "displayTime": "16h00",
               "tvChannel": "CANAL+",
-              "tvChannelLogo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+              "tvChannelLogo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/canal-logo.jpg",
               "homeTeam": {
                 "displayName": "Aurillac",
                 "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/SF-rugby.png",
@@ -89,7 +89,7 @@
               "eventStartDate": 1413471600,
               "displayTime": "16h00",
               "tvChannel": "CANAL+",
-              "tvChannelLogo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+              "tvChannelLogo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/canal-logo.jpg",
               "homeTeam": {
                 "displayName": "Colomiers",
                 "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png",
@@ -117,8 +117,7 @@
       "date": 1414249200,
       "groups": [
         {
-          "title": "Coupe du Monde - Quart de Finale",
-          "displayLogo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+          "title": "Coupe du Monde - Quart de Finale", 
           "events": [
             {
               "contentType": "match",
@@ -128,7 +127,7 @@
               "eventStartDate": 1414267200,
               "displayTime": "16h00",
               "tvChannel": "CANAL+",
-              "tvChannelLogo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+              "tvChannelLogo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/canal-logo.jpg",
               "homeTeam": {
                 "displayName": "France",
                 "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/SF-rugby.png",
@@ -156,7 +155,7 @@
       "groups": [
         {
           "title": "Coupe du Monde - Quart de Finale",
-          "displayLogo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+           "displayLogo": "",
           "events": [
             {
               "contentType": "match",
@@ -165,7 +164,7 @@
               "displayTime": "16h00",
               "eventStartDate": 1414339200,
               "tvChannel": "C+ Sport",
-              "tvChannelLogo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+              "tvChannelLogo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/canal-logo.jpg",
               "homeTeam": {
                 "displayName": "Angleterre",
                 "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png"
