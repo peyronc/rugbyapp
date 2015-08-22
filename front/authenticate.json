@@ -119,6 +119,19 @@
             "BOName": "Live - Page Intermediaire",
             "BOLayoutName": "Live - Page Intermediaire"
           }
+        },
+        {
+          "displayName": "No live",
+          "picto": "liveSport",
+          "onClick": {
+            "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageNoLive.json",
+            "displayTemplate": "sportDetailPageLive",
+            "displayName": "Live",
+            "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json",
+            "pullToRefresh": true,
+            "BOName": "Live - Page Intermediaire",
+            "BOLayoutName": "Live - Page Intermediaire"
+          }
         }
       ]
     },
