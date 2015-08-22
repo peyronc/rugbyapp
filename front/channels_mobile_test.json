@@ -1,0 +1,83 @@
+
+[  
+ {  
+      "Number":4,
+      "EpgId":301,
+      "LogoUrl":"http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/150X112/CHN43FB_301.PNG",
+      "Thematic":"Canal+ les chaines",
+      "Profiles":[  
+         {  
+            "Access":3,
+            "CryptType":0,
+            "Type":"HLS",
+            "Name":"CANAL+",
+            "UseMD":1,
+            "DVR":false,
+            "VideoLinks":[  
+               {  
+                  "Url":"http://webtv-static.canal-bis.com/resources-rec/vrugby/wsx/MOBILE/canalplus-clair-sd_ios.json",
+                  "StreamTokenType":"SMARTJOG"
+               }
+            ]
+         },
+         {  
+            "Access":4,
+            "CryptType":13,
+            "Type":"HLS",
+            "Name":"CANAL+ HD",
+            "UseMD":1,
+            "DVR":false,
+            "VideoLinks":[  
+               {  
+                  "Url":"http://webtv-static.canal-bis.com/resources-rec/vrugby/wsx/MOBILE/canalplus-hd_ios.json",
+                  "StreamTokenType":"SMARTJOG"
+               }
+            ]
+         }
+      ]
+   },
+    {  
+      "Number":14,
+      "EpgId":257,
+      "LogoUrl":"http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/150X112/CHN43FB_257.PNG",
+      "Thematic":"Canal+ les chaines",
+      "Profiles":[  
+         {  
+            "Access":4,
+            "CryptType":13,
+            "Type":"HLS",
+            "Name":"CANAL+ DECALE HD",
+            "UseMD":1,
+            "DVR":false,
+            "VideoLinks":[  
+               {  
+                  "Url":"http://webtv-static.canal-bis.com/resources-rec/vrugby/wsx/MOBILE/canalplusdecale-hd_ios.json",
+                  "StreamTokenType":"SMARTJOG"
+               }
+            ]
+         }
+      ]
+   },
+   {  
+      "Number":11,
+      "EpgId":177,
+      "LogoUrl":"http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/150X112/CHN43FB_177.PNG",
+      "Thematic":"Canal+ les chaines",
+      "Profiles":[  
+         {  
+            "Access":4,
+            "CryptType":13,
+            "Type":"HLS",
+            "Name":"CANAL+ SPORT HD",
+            "UseMD":3,
+            "DVR":true,
+            "VideoLinks":[  
+               {  
+                  "Url":"http://webtv-static.canal-bis.com/resources-rec/vrugby/wsx/MOBILE/canalplussport-hd_ios.json",
+                  "StreamTokenType":"SMARTJOG"
+               }
+            ]
+         }
+      ]
+   }
+]
