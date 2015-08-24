@@ -12,7 +12,7 @@
       "eventStartDate": 1414267200,
       "displayTime": "20h00",
       "tvChannel": "CANAL+",
-      "tvChannelLogo": "http://preprod-media.canalplus.com/image/21/3/logo.7213.151.png",
+      "tvChannelLogo": "",
       "homeTeam": {
         "displayName": "France",
         "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png",
