@@ -49,7 +49,7 @@
           "picto": "YellowCard",
           "time": "50'",
           "onClick": {
-            "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageCCast.json",
+            "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyModalSportDetailPageCCast.json",
             "displayTemplate": "multicamDetailPage",
             "displayName": "France - Australie",
             "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineCCast.json"
