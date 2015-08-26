@@ -45,7 +45,7 @@
                 },
               "onClick": {
                 "URLPage": "ttps://raw.githubusercontent.com/florentv/rugbyapp/master/front/noLive_noPfv.json",
-                "displayTemplate": "sportDetailPage",
+                "displayTemplate": "sportDetailPageLive",
                 "displayName": "La Rochelle - Clermont",
                 "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive2.json"
               }
@@ -71,7 +71,7 @@
               },
               "onClick": {
                 "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/noLive_Pfv.json",
-                "displayTemplate": "sportDetailPage",
+                "displayTemplate": "sportDetailPageLive",
                 "displayName": "Bordeaux-Bègles - Castres",
                 "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json"
               }
@@ -97,7 +97,7 @@
               },
               "onClick": {
                 "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/avantLive_noPfv.json",
-                "displayTemplate": "sportDetailPage",
+                "displayTemplate": "sportDetailPageLive",
                 "displayName": "Grenoble - Agen",
                 "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json"
               }
@@ -123,7 +123,7 @@
               },
               "onClick": {
                 "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/avantLive_monocam_noPfv.json",
-                "displayTemplate": "sportDetailPage",
+                "displayTemplate": "sportDetailPageLive",
                 "displayName": "Toulon - Racing 92",
                 "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json"
               }
@@ -149,7 +149,7 @@
               },
               "onClick": {
                 "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/liveEnCours_multicam.json",
-                "displayTemplate": "sportDetailPage",
+                "displayTemplate": "sportDetailPageLive",
                 "displayName": "Stade Français - Pau",
                 "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json"
               }
@@ -175,7 +175,7 @@
               },
               "onClick": {
                 "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/apresLive_noPfv.json",
-                "displayTemplate": "sportDetailPage",
+                "displayTemplate": "sportDetailPageLive",
                 "displayName": "Toulouse - Brive",
                 "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json"
               }
@@ -201,7 +201,7 @@
               },
               "onClick": {
                 "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/apresLive_pfv.json",
-                "displayTemplate": "sportDetailPage",
+                "displayTemplate": "sportDetailPageLive",
                 "displayName": "Montpellier - Oyonnax",
                 "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json"
               }
@@ -239,7 +239,7 @@
               },
               "onClick": {
                 "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLive.json",
-                "displayTemplate": "sportDetailPage",
+                "displayTemplate": "sportDetailPageLive",
                 "displayName": "Nouvelle-Zelande - Géorgie",
                 "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json"
               }
@@ -265,7 +265,7 @@
               },
               "onClick": {
                 "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLive.json",
-                "displayTemplate": "sportDetailPage",
+                "displayTemplate": "sportDetailPageLive",
                 "displayName": "Colomiers - Biarritz",
                 "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json"
               }
@@ -302,7 +302,7 @@
               },
               "onClick": {
                 "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLive.json",
-                "displayTemplate": "sportDetailPage",
+                "displayTemplate": "sportDetailPageLive",
                 "displayName": "France - Italie",
                 "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json"
               }
