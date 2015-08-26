@@ -2,7 +2,7 @@
 "currentPage": {
 "displayTemplate": "sportDetailPageLive",
 "displayName": "La Rochelle / Clermont",
-"URLVitrine": "http://preprod-rugby-service.canalplus.com/highlight/301d57d360d8b5698ab6d61698f6c55c/0.json?params[pid]=3189&id=2016_203_M_316011&params[type]=match",
+"URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json",
 "BOName": "GENERIQUE - Live TOP 14 2016",
 "autorefresh": 30000
 },
