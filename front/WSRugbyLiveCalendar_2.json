@@ -1,0 +1,269 @@
+{
+  "currentPage": {
+    "displayTemplate": "sportCalendar",
+    "displayName": "Live",
+    "pullToRefresh": true,
+    "autorefresh": 30000
+  },
+  "tracking": {
+    "omniture": {
+      "s.channel": "F1Mob",
+      "s.prop4": "F1Mob - Calendrier Live",
+      "s.prop5": "F1Mob - Calendrier Live",
+      "s.prop6": "F1Mob - Calendrier Live",
+      "s.prop7": "F1Mob - Calendrier Live",
+      "s.pagename": "F1Mob - Calendrier Live"
+    }
+  },
+  "strates": [
+    {
+      "title": "Vendredi 02 octobre",
+      "date": 1412208000,
+      "groups": [
+        {
+          "title": "Coupe du Monde - Poule C",
+           "displayLogo": "",
+          "events": [
+            {
+              "contentType": "match",
+              "status": "finished",
+              "displayStatus": "Terminé",
+              "eventStartDate": 1412262000,
+              "displayTime": "16h00",
+              "tvChannel": "CANAL+",
+              "tvChannelLogo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/canal-logo.jpg",
+              "homeTeam": {
+                "displayName": "Nouvelle-Zelande",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png",
+                "score": 23,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Fidji",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/SF-rugby.png",
+                "score": 3
+                },
+              "onClick": {
+                "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLive.json",
+                "displayTemplate": "sportDetailPage",
+                "displayName": "Nouvelle-Zelande - Fidgi",
+                "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json"
+              }
+            },
+            {
+              "contentType": "match",
+              "status": "finished",
+              "displayStatus": "Terminé",
+              "eventStartDate": 1413471600,
+              "displayTime": "16h00",
+              "tvChannel": "CANAL+",
+              "tvChannelLogo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/canal-logo.jpg",
+              "homeTeam": {
+                "displayName": "Cambodge",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png",
+                "score": 36,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Guatemala",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/SF-rugby.png",
+                "score": 12
+              },
+              "onClick": {
+                "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLive.json",
+                "displayTemplate": "sportDetailPage",
+                "displayName": "Cambodge - Guatemala",
+                "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json"
+              }
+            },
+            {
+              "contentType": "match",
+              "status": "finished",
+              "displayStatus": "Terminé",
+              "eventStartDate": 1413471600,
+              "displayTime": "16h00",
+              "tvChannel": "CANAL+",
+              "tvChannelLogo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/canal-logo.jpg",
+              "homeTeam": {
+                "displayName": "Angleterre",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png",
+                "score": 36,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Australie",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/SF-rugby.png",
+                "score": 12
+              },
+              "onClick": {
+                "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLive.json",
+                "displayTemplate": "sportDetailPage",
+                "displayName": "Australie - Angleterre",
+                "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json"
+              }
+            },
+            {
+              "contentType": "match",
+              "status": "finished",
+              "displayStatus": "Terminé",
+              "eventStartDate": 1413471600,
+              "displayTime": "16h00",
+              "tvChannel": "CANAL+",
+              "tvChannelLogo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/canal-logo.jpg",
+              "homeTeam": {
+                "displayName": "Italie",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png",
+                "score": 36,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "France",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/SF-rugby.png",
+                "score": 12
+              },
+              "onClick": {
+                "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLive.json",
+                "displayTemplate": "sportDetailPage",
+                "displayName": "Italie - France",
+                "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vendredi 16 octobre",
+      "date": 1413417600,
+      "groups": [
+        {
+          "title": "Pro D2 - 33e journée",
+           "displayLogo": "",
+          "events": [
+            {
+              "contentType": "match",
+              "status": "finished",
+              "displayStatus": "Terminé",
+              "eventStartDate": 1413471600,
+              "displayTime": "16h00",
+              "tvChannel": "CANAL+",
+              "tvChannelLogo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/canal-logo.jpg",
+              "homeTeam": {
+                "displayName": "Aurillac",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/SF-rugby.png",
+                "score": 6
+              },
+              "awayTeam": {
+                "displayName": "Perpignan",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png",
+                "score": 15,
+                "winner": true
+              },
+              "onClick": {
+                "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLive.json",
+                "displayTemplate": "sportDetailPage",
+                "displayName": "Nouvelle-Zelande - Géorgie",
+                "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json"
+              }
+            },
+            {
+              "contentType": "match",
+              "status": "finished",
+              "displayStatus": "Terminé",
+              "eventStartDate": 1413471600,
+              "displayTime": "16h00",
+              "tvChannel": "CANAL+",
+              "tvChannelLogo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/canal-logo.jpg",
+              "homeTeam": {
+                "displayName": "Colomiers",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png",
+                "score": 36,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Biarritz",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/SF-rugby.png",
+                "score": 12
+              },
+              "onClick": {
+                "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLive.json",
+                "displayTemplate": "sportDetailPage",
+                "displayName": "Colomiers - Biarritz",
+                "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Aujourd'hui",
+      "date": 1414249200,
+      "groups": [
+        {
+          "title": "Coupe du Monde - Quart de Finale", 
+          "events": [
+            {
+              "contentType": "match",
+              "highlight" : true,
+              "status": "ongoing",
+              "displayStatus": "En cours",
+              "eventStartDate": 1414267200,
+              "displayTime": "16h00",
+              "tvChannel": "CANAL+",
+              "tvChannelLogo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/canal-logo.jpg",
+              "homeTeam": {
+                "displayName": "France",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/SF-rugby.png",
+                "score": 15
+              },
+              "awayTeam": {
+                "displayName": "Italie",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png",
+                "score": 15
+              },
+              "onClick": {
+                "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLive.json",
+                "displayTemplate": "sportDetailPage",
+                "displayName": "France - Italie",
+                "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Demain",
+      "date": 1414281600,
+      "groups": [
+        {
+          "title": "Coupe du Monde - Quart de Finale",
+           "displayLogo": "",
+          "events": [
+            {
+              "contentType": "match",
+              "status": "before",
+              "displayStatus": "A venir",
+              "displayTime": "16h00",
+              "eventStartDate": 1414339200,
+              "tvChannel": "C+ Sport",
+              "tvChannelLogo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/canal-logo.jpg",
+              "homeTeam": {
+                "displayName": "Angleterre",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png"
+              },
+              "awayTeam": {
+                "displayName": "Japon",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/SF-rugby.png"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "empty": {
+    "displayName": "Aucun match disponible en live actuellement"
+  }
+}

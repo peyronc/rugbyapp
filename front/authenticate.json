@@ -39,6 +39,18 @@
       }
     },
     {
+      "displayName": "Calendar 2",
+      "picto": "LiveSport",
+      "onClick": {
+        "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyLiveCalendar_2.json",
+        "displayTemplate": "sportCalendar",
+        "displayName": "Live",
+        "pullToRefresh": true,
+        "BOName": "Live - Page Intermediaire",
+        "BOLayoutName": "Live - Page Intermediaire"
+      }
+    },
+    {
       "displayName": "Live CountD",
       "picto": "LiveSport",
       "onClick": {
