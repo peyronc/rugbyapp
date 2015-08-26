@@ -17,12 +17,12 @@
 {
 "displayName": "Match",
 "picto": "match",
-"URLMedias": "http://preprod-rugby-service.canalplus.com/getMediaUrl/68645c6a02d5e836da428f9af93d87bb/301.json?params[type]=live&cache=1800000"
+"URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/d41326194a3c7d1d4273e9a4356d0b46/970.json?params[type]=live&cache=1800000"
 },
 {
 "displayName": "277",
 "picto": "arbitre",
-"URLMedias": "http://preprod-rugby-service.canalplus.com/getMediaUrl/68645c6a02d5e836da428f9af93d87bb/Arbitre.json?params[type]=live&cache=1800000"
+"URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/d41326194a3c7d1d4273e9a4356d0b46/970.json?params[type]=live&cache=1800000"
 }
 ],
 "countdownTitle": "Votre match dans : ",
