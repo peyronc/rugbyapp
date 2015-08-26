@@ -2,7 +2,7 @@
 "currentPage": {
 "displayTemplate": "sportDetailPageLive",
 "displayName": "Toulon / Racing 92",
-"URLVitrine": "http://preprod-rugby-service.canalplus.com/highlight/68645c6a02d5e836da428f9af93d87bb/0.json?params[pid]=3189&id=2016_203_M_316013&params[type]=match",
+"URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json"",
 "BOName": "GENERIQUE - Live TOP 14 2016",
 "autorefresh": 30000
 },
@@ -17,7 +17,7 @@
 {
 "displayName": "Match",
 "picto": "match",
-"URLMedias": "http://preprod-rugby-service.canalplus.com/getMediaUrl/68645c6a02d5e836da428f9af93d87bb/177.json?params[type]=live&cache=1800000"
+"URLMedias": "http://preprod-f1-service.canalplus.com/getMediaUrl/d41326194a3c7d1d4273e9a4356d0b46/970.json?params[type]=live&cache=1800000"
 }
 ],
 "countdownTitle": "Votre match dans : ",
