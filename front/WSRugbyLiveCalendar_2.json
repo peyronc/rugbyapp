@@ -148,7 +148,7 @@
                 "score": 12
               },
               "onClick": {
-                "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/liveEnCours_multicam.json",
+                "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/liveEnCours_Multicam.json",
                 "displayTemplate": "sportDetailPageLive",
                 "displayName": "Stade Français - Pau",
                 "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json"
