@@ -35,7 +35,7 @@
           "time": "53'",
           "onClick": {
             "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageCCast.json",
-            "displayTemplate": "multicamDetailPage",
+            "displayTemplate": "sportDetailPageCcast",
             "displayName": "France - Australie",
             "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineCCast.json"
           }
@@ -50,7 +50,7 @@
           "time": "50'",
           "onClick": {
             "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyModalSportDetailPageCCast.json",
-            "displayTemplate": "multicamDetailPage",
+            "displayTemplate": "modalSportDetailPageCcast",
             "displayName": "France - Australie",
             "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineCCast.json"
           }
@@ -64,7 +64,7 @@
           "picto": "Conversion",
           "onClick": {
             "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageCCast.json",
-            "displayTemplate": "multicamDetailPage",
+            "displayTemplate": "sportDetailPageCcast",
             "displayName": "France - Australie",
             "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineCCast.json"
           }
@@ -79,7 +79,7 @@
           "time": "47'",
           "onClick": {
             "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageCCast.json",
-            "displayTemplate": "multicamDetailPage",
+            "displayTemplate": "sportDetailPageCcast",
             "displayName": "France - Australie",
             "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineCCast.json"
           }
@@ -92,7 +92,7 @@
           "summary": "Incroyable percée de Yohan Huget qui est rattrapé à cinq mètres de la ligne d'en-but.",
           "onClick": {
             "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageCCast.json",
-            "displayTemplate": "multicamDetailPage",
+            "displayTemplate": "sportDetailPageCcast",
             "displayName": "VICTOIRE VETTEL",
             "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineCCast.json"
           }
