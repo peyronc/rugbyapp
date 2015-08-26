@@ -1,27 +1,27 @@
 {
-"currentPage": {
-"displayTemplate": "sportDetailPageLive",
-"displayName": "La Rochelle / Clermont",
-"URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive2.json",
-"BOName": "GENERIQUE - Live TOP 14 2016",
-"autorefresh": 30000
+"currentPage":{
+"displayTemplate":"sportDetailPageLive",
+"displayName":"La Rochelle / Clermont",
+"URLVitrine":"https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive2.json",
+"BOName":"GENERIQUE - Live TOP 14 2016",
+"autorefresh":30000
 },
-"detail": {
-"informations": {
-"type": "live",
-"event": "rugby",
-"noLiveTitle": "Aucun diffusion live pour ce match",
-"countdownTitle": "Votre match dans : ",
-"video": {
-"type": "pfv",
-"buttonTitle": "Voir le résumé du match",
-"availableInVoDOnDevice": true,
-"availableInD2GOnDevice": true,
-"isInOfferForD2G": true,
-"availableInLiveOnDevice": false,
-"isInOffer": true,
-"isInOfferOnDevice": true,
-"HD": false
+"detail":{
+"informations":{
+"type":"live",
+"event":"rugby",
+"noLiveTitle":"Aucun diffusion live pour ce match",
+"countdownTitle":"Votre match dans : ",
+"video":{
+"type":"pfv",
+"buttonTitle":"Voir le résumé du match",
+"availableInVoDOnDevice":true,
+"availableInD2GOnDevice":true,
+"isInOfferForD2G":true,
+"availableInLiveOnDevice":false,
+"isInOffer":true,
+"isInOfferOnDevice":true,
+"HD":false
 }
 }
 }
