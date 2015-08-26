@@ -127,6 +127,84 @@
                 "displayName": "Italie - France",
                 "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json"
               }
+            },
+            {
+              "contentType": "match",
+              "status": "finished",
+              "displayStatus": "Terminé",
+              "eventStartDate": 1413471600,
+              "displayTime": "16h00",
+              "tvChannel": "CANAL+",
+              "tvChannelLogo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/canal-logo.jpg",
+              "homeTeam": {
+                "displayName": "Inde",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png",
+                "score": 36,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Chine",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/SF-rugby.png",
+                "score": 12
+              },
+              "onClick": {
+                "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLive.json",
+                "displayTemplate": "sportDetailPage",
+                "displayName": "Inde - Chine",
+                "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json"
+              }
+            },
+            {
+              "contentType": "match",
+              "status": "finished",
+              "displayStatus": "Terminé",
+              "eventStartDate": 1413471600,
+              "displayTime": "16h00",
+              "tvChannel": "CANAL+",
+              "tvChannelLogo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/canal-logo.jpg",
+              "homeTeam": {
+                "displayName": "Chine",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png",
+                "score": 36,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Japon",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/SF-rugby.png",
+                "score": 12
+              },
+              "onClick": {
+                "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLive.json",
+                "displayTemplate": "sportDetailPage",
+                "displayName": "Chine - Japon",
+                "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json"
+              }
+            },
+            {
+              "contentType": "match",
+              "status": "finished",
+              "displayStatus": "Terminé",
+              "eventStartDate": 1413471600,
+              "displayTime": "16h00",
+              "tvChannel": "CANAL+",
+              "tvChannelLogo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/canal-logo.jpg",
+              "homeTeam": {
+                "displayName": "Suisse",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png",
+                "score": 36,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Espagne",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/SF-rugby.png",
+                "score": 12
+              },
+              "onClick": {
+                "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLive.json",
+                "displayTemplate": "sportDetailPage",
+                "displayName": "Suisse - Espagne",
+                "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json"
+              }
             }
           ]
         }
