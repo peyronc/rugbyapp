@@ -23,8 +23,8 @@
       "event": "rugby",
       "urlImage": "http://rugby-service...",
       "noLiveTitle": "Pas de diffusion live pour ce match",
-      "startTimeLive": 1440666163,
-      "endTimeLive": 1440698760,
+      "startTimeLive": 1440698880,
+      "endTimeLive": 1440699000,
       "multicam": [
         {
           "displayName": "Match",
