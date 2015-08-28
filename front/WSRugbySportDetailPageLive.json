@@ -21,7 +21,7 @@
     "informations": {
       "type": "live",
       "event": "rugby",
-      "urlImage": "http://rugby-service...",
+      "URLImage": "http://rugby-service...",
       "noLiveTitle": "Pas de diffusion live pour ce match",
       "startTimeLive": 1426190520,
       "endTimeLive": 1451592480,
