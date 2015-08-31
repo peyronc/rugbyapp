@@ -149,7 +149,7 @@
           "displayName": "PlaceHolder",
           "picto": "liveSport",
           "onClick": {
-            "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/noLive_noPfv.json.json",
+            "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/noLive_noPfv.json",
             "displayTemplate": "sportDetailPageLive",
             "displayName": "Live",
             "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive_Void.json",
