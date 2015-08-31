@@ -149,10 +149,10 @@
           "displayName": "PlaceHolder",
           "picto": "liveSport",
           "onClick": {
-            "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageNoLive.json",
+            "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/noLive_noPfv.json.json",
             "displayTemplate": "sportDetailPageLive",
             "displayName": "Live",
-            "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json",
+            "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive_Void.json",
             "pullToRefresh": true,
             "BOName": "Live - Page Intermediaire",
             "BOLayoutName": "Live - Page Intermediaire"
