@@ -50,6 +50,18 @@
         "BOLayoutName": "Live - Page Intermediaire"
       }
     },
+        {
+      "displayName": "Calendar Empty",
+      "picto": "LiveSport",
+      "onClick": {
+        "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyLiveCalendarEmpty.json",
+        "displayTemplate": "sportCalendar",
+        "displayName": "Live",
+        "pullToRefresh": true,
+        "BOName": "Live - Page Intermediaire",
+        "BOLayoutName": "Live - Page Intermediaire"
+      }
+    },
     {
       "displayName": "Live CountD",
       "picto": "LiveSport",
@@ -146,7 +158,7 @@
           }
         },
          {
-          "displayName": "PlaceHolder",
+          "displayName": "Empty CCast",
           "picto": "liveSport",
           "onClick": {
             "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/noLive_noPfv.json",
@@ -165,6 +177,16 @@
       "picto": "Cdm",
       "onClick": {
         "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyGabaritListCDM.json",
+        "displayTemplate": "gabaritList",
+        "displayName": "Coupe du Monde",
+        "BOName": "Coupe du Monde"
+      }
+    },
+        {
+      "displayName": "Coupe du monde Empty",
+      "picto": "Cdm",
+      "onClick": {
+        "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyGabaritListCDM_Empty.json",
         "displayTemplate": "gabaritList",
         "displayName": "Coupe du Monde",
         "BOName": "Coupe du Monde"

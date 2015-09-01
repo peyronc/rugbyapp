@@ -1,0 +1,20 @@
+{
+"currentPage": {
+"displayTemplate": "sportRanking",
+"displayName": "Classement",
+"BOName": "Classement",
+"BOLayoutName": "CDM Classement"
+},
+"tracking": {
+"omniture": {
+"s.channel": "MyCTab",
+"s.prop4": "MyCTab - Coupe du Monde",
+"s.prop5": "MyCTab - Coupe du Monde - Classement",
+"s.pagename": "MyCTab - Coupe du Monde - Classement"
+}
+},
+"strates": [],
+"empty": {
+"displayName": "Aucun classement disponible pour le moment"
+}
+}
