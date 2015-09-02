@@ -145,6 +145,21 @@
           }
         },
         {
+"displayName": "Pronostics",
+"picto": "Pronos",
+"onClick": {
+"displayTemplate": "webview",
+"leaveAppOnClick": false,
+"displayRemote": false,
+"displayWebControls": true,
+"localyStored": false,
+"URLPage": "http://clique.tv",
+"URLWebsite": "http://clique.tv",
+"displayName": "Pronostics",
+"BOName": "Pronos CDM"
+}
+},
+        {
           "displayName": "No live",
           "picto": "liveSport",
           "onClick": {
