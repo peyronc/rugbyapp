@@ -25,6 +25,7 @@
       "BOName": "Classement",
       "BOLayoutName": "Classement - Coupe du Monde",
       "highlight": false,
+      "pullToRefresh": true,
       "iPhonePosition": "inSegmentedControl",
       "iPhoneListSegmentedControlName": "Classement"
     },
