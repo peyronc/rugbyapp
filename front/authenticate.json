@@ -3,17 +3,6 @@
   "home": [],
   "arborescence": [
     {
-      "displayName": "Accès abonné",
-      "picto": "Key",
-      "onClick": {
-        "displayTemplate": "sectionOverview",
-        "section": "SubscriberAccess",
-        "displayName": "Accès Abonné",
-        "BOName": "Acces abonne",
-        "BOLayoutName": "Acces Abonne - Se connecter"
-      }
-    },
-    {
       "displayName": "Accueil",
       "picto": "Home",
       "onClick": {
@@ -237,6 +226,17 @@
         "displayType": "tab",
         "BOName": "Actualites",
         "BOLayoutName": "Actualites"
+      }
+    },
+    {
+      "displayName": "Accès abonné",
+      "picto": "Key",
+      "onClick": {
+        "displayTemplate": "sectionOverview",
+        "section": "SubscriberAccess",
+        "displayName": "Accès Abonné",
+        "BOName": "Acces abonne",
+        "BOLayoutName": "Acces Abonne - Se connecter"
       }
     },
     {
