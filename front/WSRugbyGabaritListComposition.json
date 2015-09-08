@@ -9,7 +9,7 @@
   "rubriques": [
     {
       "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyComposition.json",
-      "displayTemplate": "composition",
+      "displayTemplate": "sportComposition",
       "displayName": "France",
       "BOName": "France",
       "BOLayoutName": "Composition - France",
@@ -19,7 +19,7 @@
     },
     {
       "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyComposition.json",
-      "displayTemplate": "composition",
+      "displayTemplate": "sportComposition",
       "displayName": "Irlande",
       "BOName": "Irlande",
       "BOLayoutName": "Composition - Irlande",
