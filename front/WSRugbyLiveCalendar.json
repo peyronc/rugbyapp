@@ -177,7 +177,135 @@
           ]
         }
       ]
-    }
+    },
+    {
+      "title": "Vendredi 30 octobre",
+      "date": 1413417600,
+      "groups": [
+        {
+          "title": "Pro D2 - 33e journée",
+           "displayLogo": "",
+          "events": [
+            {
+              "contentType": "match",
+              "status": "finished",
+              "displayStatus": "Terminé",
+              "eventStartDate": 1413471600,
+              "displayTime": "16h00",
+              "tvChannel": "CANAL+",
+              "tvChannelLogo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/canal-logo.jpg",
+              "homeTeam": {
+                "displayName": "Aurillac",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/SF-rugby.png",
+                "score": 6
+              },
+              "awayTeam": {
+                "displayName": "Perpignan",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png",
+                "score": 15,
+                "winner": true
+              },
+              "onClick": {
+                "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLive.json",
+                "displayTemplate": "sportDetailPage",
+                "displayName": "Nouvelle-Zelande - Géorgie",
+                "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json"
+              }
+            },
+            {
+              "contentType": "match",
+              "status": "finished",
+              "displayStatus": "Terminé",
+              "eventStartDate": 1413471600,
+              "displayTime": "16h00",
+              "tvChannel": "CANAL+",
+              "tvChannelLogo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/canal-logo.jpg",
+              "homeTeam": {
+                "displayName": "Colomiers",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png",
+                "score": 36,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Biarritz",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/SF-rugby.png",
+                "score": 12
+              },
+              "onClick": {
+                "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLive.json",
+                "displayTemplate": "sportDetailPage",
+                "displayName": "Colomiers - Biarritz",
+                "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vendredi 30 novembre",
+      "date": 1413417600,
+      "groups": [
+        {
+          "title": "Pro D2 - 33e journée",
+           "displayLogo": "",
+          "events": [
+            {
+              "contentType": "match",
+              "status": "finished",
+              "displayStatus": "Terminé",
+              "eventStartDate": 1413471600,
+              "displayTime": "16h00",
+              "tvChannel": "CANAL+",
+              "tvChannelLogo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/canal-logo.jpg",
+              "homeTeam": {
+                "displayName": "Aurillac",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/SF-rugby.png",
+                "score": 6
+              },
+              "awayTeam": {
+                "displayName": "Perpignan",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png",
+                "score": 15,
+                "winner": true
+              },
+              "onClick": {
+                "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLive.json",
+                "displayTemplate": "sportDetailPage",
+                "displayName": "Nouvelle-Zelande - Géorgie",
+                "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json"
+              }
+            },
+            {
+              "contentType": "match",
+              "status": "finished",
+              "displayStatus": "Terminé",
+              "eventStartDate": 1413471600,
+              "displayTime": "16h00",
+              "tvChannel": "CANAL+",
+              "tvChannelLogo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/canal-logo.jpg",
+              "homeTeam": {
+                "displayName": "Colomiers",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/France-rugby.png",
+                "score": 36,
+                "winner": true
+              },
+              "awayTeam": {
+                "displayName": "Biarritz",
+                "logo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/SF-rugby.png",
+                "score": 12
+              },
+              "onClick": {
+                "URLPage": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbySportDetailPageLive.json",
+                "displayTemplate": "sportDetailPage",
+                "displayName": "Colomiers - Biarritz",
+                "URLVitrine": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/WSRugbyVitrineLive.json"
+              }
+            }
+          ]
+        }
+      ]
+    },
   ],
   "empty": {
     "displayName": "Aucun match disponible en live actuellement"
