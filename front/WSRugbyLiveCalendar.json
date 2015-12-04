@@ -114,7 +114,7 @@
     },
     {
       "title": "Aujourd'hui",
-      "date": 1414249200,
+      "date": 1449183600,
       "groups": [
         {
           "title": "Coupe du Monde - Quart de Finale", 
@@ -124,7 +124,7 @@
               "highlight" : true,
               "status": "ongoing",
               "displayStatus": "En cours",
-              "eventStartDate": 1414267200,
+              "eventStartDate": 1449248400,
               "displayTime": "16h00",
               "tvChannel": "CANAL+",
               "tvChannelLogo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/canal-logo.jpg",
@@ -151,7 +151,7 @@
     },
     {
       "title": "Demain",
-      "date": 1414281600,
+      "date": 1449270000,
       "groups": [
         {
           "title": "Coupe du Monde - Quart de Finale",
@@ -162,7 +162,7 @@
               "status": "before",
               "displayStatus": "A venir",
               "displayTime": "16h00",
-              "eventStartDate": 1414339200,
+              "eventStartDate": 1449334800,
               "tvChannel": "C+ Sport",
               "tvChannelLogo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/canal-logo.jpg",
               "homeTeam": {
@@ -179,8 +179,8 @@
       ]
     },
     {
-      "title": "Vendredi 30 octobre",
-      "date": 1413417600,
+      "title": "Vendredi 11 décembre",
+      "date": 1449788400,
       "groups": [
         {
           "title": "Pro D2 - 33e journée",
@@ -190,7 +190,7 @@
               "contentType": "match",
               "status": "finished",
               "displayStatus": "Terminé",
-              "eventStartDate": 1413471600,
+              "eventStartDate": 1449853200,
               "displayTime": "16h00",
               "tvChannel": "CANAL+",
               "tvChannelLogo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/canal-logo.jpg",
@@ -216,7 +216,7 @@
               "contentType": "match",
               "status": "finished",
               "displayStatus": "Terminé",
-              "eventStartDate": 1413471600,
+              "eventStartDate": 1449860400,
               "displayTime": "16h00",
               "tvChannel": "CANAL+",
               "tvChannelLogo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/canal-logo.jpg",
@@ -243,8 +243,8 @@
       ]
     },
     {
-      "title": "Vendredi 30 novembre",
-      "date": 1413417600,
+      "title": "Vendredi 18 décembre",
+      "date": 1450393200,
       "groups": [
         {
           "title": "Pro D2 - 33e journée",
@@ -254,7 +254,7 @@
               "contentType": "match",
               "status": "finished",
               "displayStatus": "Terminé",
-              "eventStartDate": 1413471600,
+              "eventStartDate": 1450458000,
               "displayTime": "16h00",
               "tvChannel": "CANAL+",
               "tvChannelLogo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/canal-logo.jpg",
@@ -280,7 +280,7 @@
               "contentType": "match",
               "status": "finished",
               "displayStatus": "Terminé",
-              "eventStartDate": 1413471600,
+              "eventStartDate": 1450465200,
               "displayTime": "16h00",
               "tvChannel": "CANAL+",
               "tvChannelLogo": "https://raw.githubusercontent.com/florentv/rugbyapp/master/front/canal-logo.jpg",
