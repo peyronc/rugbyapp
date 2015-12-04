@@ -24,11 +24,6 @@
           "position": "1"
         },
         {
-          "displayName": "D. Szarzewski",
-          "shirtNo": "2",
-          "position": "2"
-        },
-        {
           "displayName": "V. Debaty",
           "shirtNo": "3",
           "position": "3"
@@ -57,6 +52,11 @@
           "displayName": "L. Picamoles",
           "shirtNo": "8",
           "position": "8"
+        },
+                {
+          "displayName": "D. Szarzewski",
+          "shirtNo": "2",
+          "position": "2"
         },
         {
           "displayName": "M. Parra",
