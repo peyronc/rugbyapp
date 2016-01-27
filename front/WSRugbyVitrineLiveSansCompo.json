@@ -1,0 +1,54 @@
+{
+  "currentPage": {
+    "displayTemplate": "vitrine",
+    "autorefresh": 30000
+  },
+  "strates": [
+    {
+      "type": "sportVitrine",
+      "status": "before",
+      "displayStatus": "A venir",
+      "displayTime": "20h45",
+      "eventStartDate": 1454096700,
+      "tvChannel": "Rugby+",
+      "tvChannelLogo": "https://storage.googleapis.com/canal_rugby/images/broadcasters/5.png",
+      "homeTeam": {
+        "displayName": "Brive",
+        "logo": "https://storage.googleapis.com/canal_rugby/images/teams/3500.png",
+        "score": 0,
+        "winner": false,
+        "stats": []
+      },
+      "awayTeam": {
+        "displayName": "La Rochelle",
+        "logo": "https://storage.googleapis.com/canal_rugby/images/teams/47.png",
+        "score": 0,
+        "winner": false,
+        "stats": []
+      },
+      "autorefresh": 30000
+    },
+    {
+      "type": "buttonVitrine",
+      "buttonstype": [
+        {
+          "title": "Compositions",
+          "picto": "Composition"
+        },
+        {
+          "title": "Résultats",
+          "picto": "Results",
+          "onClick": {
+            "displayTemplate": "modalGabaritList",
+            "displayName": "Résultats",
+            "URLPage": "http://rugby-service.mycanal.fr/page/85a021537ef68bc3d8ecf21db4a5bf45/3970.json?cache=300000&id=2016_203_M_316144",
+            "displayType": "Résultats",
+            "BOName": "GENERIQUE - Popin Resultats",
+            "BOLayoutName": "GENERIQUE - Popin Resultats",
+            "slug": "/ne-pas-toucher-rugby/pid3970-generique-popin-resultats.html"
+          }
+        }
+      ]
+    }
+  ]
+}
